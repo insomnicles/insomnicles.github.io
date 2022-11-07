@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Home
+title: Blog
 ---
 
+
+<h2> BLOG PAGE </h2>
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
