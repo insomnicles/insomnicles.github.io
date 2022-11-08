@@ -2,7 +2,7 @@
 title:               The Academy
 tagline:             'Read Platonic Dialgoues'
 description:         'A place to read Platonic dialogues and other works from Platos Academy.'
-url:                 http://lanyon.getpoole.com
+url:                 https://insomnicles.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
