@@ -4,10 +4,10 @@ A place to read and listen to Plato's dialogues and other works from the time Pl
 
 ## Installing, Compiling and Serving
 
-```
+```bash
 	bundle install
 	bundle exec jekyll serve --hotreload
-'''
+```
 
 ## License
 
