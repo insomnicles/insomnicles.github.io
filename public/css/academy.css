@@ -1,14 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700&amp;subset=greek,greek-ext');
 
-/* body {
+body {
   font-family: 'Noto Serif', serif;
   display: flex;
   justify-content: center;
-} */
+}
 .container {
   position: relative;
   max-width: 800px;
   /* margin: 1em 4em; */
+}
+.container * {
+  font-family: 'Noto Serif', serif;
 }
 nav {
   font-size: 120%;
@@ -31,30 +34,44 @@ a:hover {
   text-decoration: underline;
 }
 
-.dialogueTitle {
+.book_title {
+  text-align: center;
+  margin:0px;
+  font-family: 'Noto Serif', serif;
+}
+.book_author {
   text-align: center;
   margin:0px;
 }
-.dialogueAuthor {
-  text-align: center;
-  margin:0px;
-}
-.dialogueTranslator {
+.book_translator {
   font-size: 90%;
   text-align: center;
   margin-top:5px;
   margin-bottom:5px;
 }
-.dialogueCopyright {
+.book_copyright {
   text-align: center;
   margin-top:5px;
   margin-bottom:5px;
   padding-bottom: 25px;
 
 }
-.dialogueDescription {
+.book_toc {
+  font-size: 90%;
+  text-align: center;
   margin-top:5px;
   margin-bottom:5px;
+}
+.book_description {
+  display: inline;
+  margin-top:5px;
+  margin-bottom:5px;
+  font-weight: bold;
+}
+
+.book_source_and_license {
+  padding: 0px;
+  text-align: center;
 }
 
 body.index h1 {
@@ -126,6 +143,7 @@ li {
 }
 
 .speech {
+  font-family: 'Noto Serif', serif;
   margin: 2em 0;
   line-height: 1.8em;
   font-size: 1.3em;

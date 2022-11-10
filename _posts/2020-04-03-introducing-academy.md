@@ -13,7 +13,7 @@ Hello! This website is for anyone who wants to read Plato's dialogues and other 
 
 Socrates (470-399 BCE) practiced philosophy in Athens and promoted Socratic elenchus or, what is sometimes refered to as, the "Socratic Method".
 
-### [Plato](/plato)
+### [Plato]({{ site.baseurl }} /plato)
 
 Plato (428-348 BCE) --- student of Socrates, teacher of Aristotle.
 

@@ -6,19 +6,9 @@ permalink: /plato
 
 <p class="message">Wonder is the feeling of a philosopher, and philosophy begins in wonder. <i>Theaetetus (155d)</i></p>
 
-All the translations are by Benjamin Jowett. The dialogues below are ordered thematically, where each dialogue in the group complements or revises the others.
-
-starred dialogues "*" are of disputed authenticity
+The dialogues below are ordered thematically. Starred dialogues "*" are of disputed authenticity
 
 <table>
-  <!-- <thead>
-    <tr>
-      <th>Dialogue</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead> -->
   <tbody>
     <tr><th colspan="4">First Tetralogy</th></tr>
     <tr>
@@ -30,7 +20,7 @@ starred dialogues "*" are of disputed authenticity
       <!-- <td><a href=""><img src="../images/pdf.png" height="25px" width="25px" /></a></td> -->
     </tr>
     <tr>
-      <td><a href="http://localhost:4000/plato/apology">Apology</a></td>
+      <td><a href="{{ site.baseurl}}/plato/apology">Apology</a></td>
       <td><a href="https://librivox.org/apology-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td>Socrates trial defense speech</td>
       <td></td>
@@ -44,7 +34,7 @@ starred dialogues "*" are of disputed authenticity
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://localhost:4000/plato/phaedo">Phaedo</a></td>
+      <td><a href="{{ site.baseurl}}/plato/phaedo">Phaedo</a></td>
       <td><a href="https://librivox.org/phaedo-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td>Is the soul immortal?</td>
       <td></td>
@@ -191,14 +181,14 @@ starred dialogues "*" are of disputed authenticity
       <td></td>
     </tr>
     <tr>
-      <td>Gorgias</td>
-      <td></td>
-      <td>What is rhetoric? What is virtue? Can virtue be taught?</td>
+      <td><a href="{{ site.baseurl }}/plato/gorgias">Gorgias</a></td>
+      <td><a href="https://librivox.org/gorgias-by-plato-platon/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td>What is rhetoric? What is virtue? Can virtue be taught? What is happiness?</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Meno</td>
+      <td><a href="{{ site.baseurl }}/plato/meno">Meno</a></td>
       <td></td>
       <td>What is virtue? Meno's Paradox. Can virtue be taught?</td>
       <td></td>
