@@ -3,22 +3,16 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
+<!-- Pinned Post -->
+{% for post in paginator.posts %}
+  {% if post.pinned %}
+    {{ post.title }}
+    {{ post.date }}
     {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+  {% endif %}
+{% endfor %}
 
+<!-- Paginator -->
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
@@ -34,4 +28,23 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
+</div>
+
+<!-- Non Pinned Posts -->
+<div class="posts">
+  {% for post in paginator.posts %}
+    {% unless post.pinned %}
+      <div class="post">
+        <h1 class="post-title">
+          <a href="{{ post.url | absolute_url }}">
+            {{ post.title }}
+          </a>
+        </h1>
+
+        <span class="post-date">{{ post.date | date_to_string }}</span>
+
+        {{ post.content }}
+      </div>
+    {% endunless %}
+  {% endfor %}
 </div>

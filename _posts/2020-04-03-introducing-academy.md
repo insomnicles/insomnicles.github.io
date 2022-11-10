@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introducing the Academy
+pinned: true
 ---
 
 <p class="message">Wonder is the feeling of a philosopher, and philosophy begins in wonder. <i>Theaetetus (155d)</i></p>
@@ -8,18 +9,13 @@ title: Introducing the Academy
 Hello! This website is for anyone who wants to read Plato's dialogues and other works from around the time [Plato's academy](https://en.wikipedia.org/wiki/Platonic_Academy) was formed. The works are from
 [Guttenberg Project](https://www.gutenberg.org/) copies of the originals and other online sources of works in the public domain. Python and PHP Scripts used to create the viewable dialogues are on <a href="https://github.com/insomnicles/academy">GitHub</a>.
 
-### Socrates
+### [Socrates]({{ site.url }}/2022/11/09/socrates/)
 
-Socrates (470-399 BCE) practiced philosophy in Athens and promoted Socratic elenchus or, what is sometimes refered to as, the "Socratic Method". He never wrote anything down but his followers, notably Plato, recounted his intellectual interactions with prominent politicians, sophists and the Athenian youth. The early period Platonic dialogues (e.g. Euthyphro, Laches, Gorgias) are regarded as the best evidence we have of Socrates as a philosopher in action.
+Socrates (470-399 BCE) practiced philosophy in Athens and promoted Socratic elenchus or, what is sometimes refered to as, the "Socratic Method".
 
 ### [Plato](/plato)
 
 Plato (428-348 BCE) --- student of Socrates, teacher of Aristotle.
-
-<dl>
-  <dt>Translations</dt>
-  <dd>Bejamin Jowett for almost the entire corpus</dd>
-</dl>
 
 <!-- ### [Aristotle](/aristotle)
 

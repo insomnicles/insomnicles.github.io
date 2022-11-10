@@ -12,3 +12,10 @@ A place to read and listen to Plato's dialogues and other works from the time Pl
 ## License
 
 Open sourced under the [MIT license](LICENSE.md).
+
+
+## TODO
+- [ ] Add Plato primary sources in pdf in public domain: Loeb Classics, Harvard Classics Library
+- [ ] Add secondary sources
+
+Portrait of Socrates. Marble, Roman artwork (1st century), perhaps a copy of a lost bronze statue made by Lysippos.
