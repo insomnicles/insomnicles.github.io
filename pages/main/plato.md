@@ -289,21 +289,21 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
     </tr>
     <tr> <th colspan="4">Apocrypha</th></tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/eryxias">Eryxias</a></td>
+      <td><a href="{{ site.baseurl}}/plato/eryxias">Eryxias*</a></td>
       <td><a href="https://librivox.org/eryxias-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td>Is wealth necessary for virtue and happiness?</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Definitions</td>
+      <td>Definitions*</td>
       <td><a href="https://librivox.org/platos-definitions-and-epigrams-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td></td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td>Epigrams</td>
+      <td>Epigrams*</td>
       <td><a href="https://librivox.org/platos-definitions-and-epigrams-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td></td>
       <td></td>
