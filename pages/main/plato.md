@@ -176,14 +176,14 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
     <tr>
       <td><a href="{{ site.baseurl}}/plato/protagoras">Protagoras</a></td>
       <td><a href="https://librivox.org/protagoras-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
-      <td>What is rhetoric? What is virtue? What is happiness? Can virtue be taught?</td>
+      <td>What is rhetoric? What is virtue? Can virtue be taught?</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td><a href="{{ site.baseurl}}/plato/gorgias">Gorgias</a></td>
       <td><a href="https://librivox.org/gorgias-by-plato-platon/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
-      <td>What is rhetoric? What is virtue? Can virtue be taught? What is happiness?</td>
+      <td>What is rhetoric? What is virtue? Can virtue be taught?</td>
       <td></td>
       <td></td>
     </tr>
@@ -281,7 +281,7 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/7thletter">7th Letter*</a></td>
+      <td>7th Letter*</td>
       <td></td>
       <td>Biographical; 7th letter: the limits of philosophical writing</td>
       <td></td>
