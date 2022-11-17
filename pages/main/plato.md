@@ -303,7 +303,7 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/epigrams">Epigrams</a></td>
+      <td>Epigrams</td>
       <td><a href="https://librivox.org/platos-definitions-and-epigrams-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td></td>
       <td></td>
