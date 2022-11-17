@@ -123,14 +123,14 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/hipparchus">Hipparchus*</a></td>
+      <td>Hipparchus*</td>
       <td></td>
       <td>What is the desire (love) of gain (philokerdēs)?</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/lovers">Lovers*</a></td>
+      <td>Lovers*</td>
       <td></td>
       <td></td>
       <td></td>
@@ -138,7 +138,7 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
     </tr>
     <tr> <th colspan="4">Fifth Tetralogy</th></tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/theages">Theages*</a></td>
+      <td>Theages*</td>
       <td></td>
       <td></td>
       <td></td>
@@ -197,14 +197,14 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
     </tr>
     <tr> <th colspan="4">Seventh Tetralogy</th></tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/hippias-major">Hippias Major*</a></td>
+      <td>Hippias Major*</td>
       <td></td>
       <td>What is it for a thing to be fine?</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/hippias-minor">Hippias Minor</a></td>
+      <td><a href="{{ site.baseurl}}/plato/lesser-hippias">Hippias Minor</a></td>
       <td><a href="https://librivox.org/lesser-hippias-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td>Is it better to lie involuntarily or voluntarily?</td>
       <td></td>
@@ -226,7 +226,7 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
     </tr>
         <tr> <th colspan="4">Eighth Tetralogy</th></tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/clitophon">Clitophon</a></td>
+      <td><a href="{{ site.baseurl}}/plato/cleitophon">Cleitophon</a></td>
       <td></td>
       <!--AUDIO BOok https://archive.org/details/clitopho -->
       <td>Is Socratic elenchus mere exhortation?</td>
@@ -259,7 +259,7 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
     </tr>
     <tr> <th colspan="4">Ninth Tetralogy</th></tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/minos">Minos*</a></td>
+      <td>Minos*</td>
       <td></td>
       <td>What is a just law?</td>
       <td></td>
@@ -274,7 +274,7 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
       <!-- https://iep.utm.edu/pla-laws/ -->
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/minos">Epinomis*</a></td>
+      <td>Epinomis*</td>
       <td><a href="https://librivox.org/epinomis-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td>What is wisdom?</td>
       <td></td>
@@ -296,7 +296,7 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/definitions">Definitions</a></td>
+      <td>Definitions</td>
       <td><a href="https://librivox.org/platos-definitions-and-epigrams-by-plato/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td></td>
       <td></td>

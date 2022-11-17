@@ -9,17 +9,21 @@ pinned: true
 Hello! This website is for anyone who wants to read Plato's dialogues and other works from around the time [Plato's academy](https://en.wikipedia.org/wiki/Platonic_Academy) was formed. The works are from
 [Guttenberg Project](https://www.gutenberg.org/) copies of the originals and other online sources of works in the public domain. Python and PHP Scripts used to create the viewable dialogues are on <a href="https://github.com/insomnicles/academy">GitHub</a>.
 
-### [Socrates (470-399 BCE)]({{ site.url }}/2022/11/09/socrates/)
+### [Socrates (470-399 BC)]({{ site.url }}/2022/11/09/socrates/)
 
 Relentless practitioner and promoter of Socratic elenchus or the "Socratic Method".
 
-### [Plato (428-348 BCE)]({{ site.baseurl }}/plato)
+### [Plato (428-348 BC)]({{ site.baseurl }}/plato)
 
 Student of Socrates, teacher of Aristotle. Founder of the Academy.
 
-### [Aristotle (384-322BCE)]({{ site.baseurl }}/aristotle)
+### [Aristotle (384-322BC)]({{ site.baseurl }}/aristotle)
 
 Student of Plato, teacher of Alexander the Great. Founder of the Peripatetic school of philosophy.
+
+### [Xenophon (430-355BC)]({{ site.baseurl }}/xenophon)
+
+Greek general, historian and philosopher. Student of Socrates.
 
 <br><br><br>
 
