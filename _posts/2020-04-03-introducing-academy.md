@@ -11,7 +11,7 @@ Hello! This website is for anyone who wants to read Plato's dialogues and other 
 
 ### [Socrates (470-399 BC)]({{ site.url }}/2022/11/09/socrates/)
 
-Relentless practitioner and promoter of Socratic elenchus or the "Socratic Method".
+Practitioner of Socratic elenchus or the "Socratic Method".
 
 ### [Plato (428-348 BC)]({{ site.baseurl }}/plato)
 
@@ -23,7 +23,7 @@ Student of Plato, teacher of Alexander the Great. Founder of the Peripatetic sch
 
 ### [Xenophon (430-355BC)]({{ site.baseurl }}/xenophon)
 
-Greek general, historian and philosopher. Student of Socrates.
+Student of Socrates. Greek general, historian and philosopher.
 
 <br><br><br>
 
