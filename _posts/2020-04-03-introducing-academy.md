@@ -19,7 +19,7 @@ Student of Socrates, teacher of Aristotle. Founder of the Academy.
 
 ### [Aristotle (384-322BC)]({{ site.baseurl }}/aristotle)
 
-Student of Plato, teacher of Alexander the Great. Founder of the Peripatetic school of philosophy.
+Student of Plato. Founder of the Peripatetic school of philosophy.
 
 ### [Xenophon (430-355BC)]({{ site.baseurl }}/xenophon)
 
