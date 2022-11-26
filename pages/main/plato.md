@@ -27,7 +27,7 @@ The dialogues below are ordered thematically. Starred dialogues "*" are of dispu
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/plato/crito">Crito</a></td>
+      <td>Crito</td>
       <td><a href="https://librivox.org/short-nonfiction-collection-vol-024-by-various/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
       <td>Should one disobey unjust laws?</td>
       <td></td>

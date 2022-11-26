@@ -1,9 +1,37 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700&amp;subset=greek,greek-ext');
 
+/* https://coolors.co/palette/780000-c1121f-fdf0d5-003049-669bbc */
+:root {
+  --primary: #780000;
+  --primary-light: #C1121F;
+  --secondary-dark: #003049;
+  --secondary-light: #669BBC;
+  --background-light: #FDF0D5;
+  --highlight: #C8C8C8;
+
+  --link-color: var(--primary-light);
+  --link-color-hover: var(--primary);
+  --text-color: black;
+
+  --explanation-bg: var(--background-light);
+
+  --reader-nav-bg: var(--background-light);
+  --reader-nav-hover: var(--highlight);
+  --reader-nav-img: var(--link-color);
+
+  --toc-border-color: var(--text-color);
+
+  --chapter-ref: var(--primary-light);
+  --speech-ref: var(--primary-light);
+  --sentence-ref: var(--primary-light);
+  --paragraph-ref: var(--primary-light);
+  --verse-ref: var(--primary-light);
+  --stephanus-text-color: var(--text-color);
+}
+
 #book_reader_container {
   display:flex;
   font-size: 16px;
-  color:black;
 }
 
 #book_reader_container * {
@@ -11,31 +39,22 @@
 }
 
 #book_reader_container a {
-  color: #C00;
+  color: var(--link-color);
   text-decoration: none;
 }
 
 #book_reader_container a:hover {
-  color: #F33;
+  color: var(--link-color-hover);
   text-decoration: underline;
 }
 
-.book_reader {
-  position: relative;
-  margin: auto;
-  display: flex;
-  justify-content:center;
-  max-width: 800px;
-  padding-top: 50px;
-}
 
+/* Book Reader Navigation Bar */
 #book_reader_nav {
-  overflow: hidden;
-  background-color: #f1f1f1;
-  /* padding: 90px 10px; */
-  /* Large padding which will shrink on scroll (using JS) */
-  transition: 0.4s; /* Adds a transition effect when the padding is decreased */
   position: fixed;  /* Sticky/fixed book_reader_nav */
+  overflow: hidden;
+  background-color: var(--reader-nav-bg);
+  color: var(--text-color);
   width: 100%;
   top: 0;           /* At the top */
   margin-bottom: 10px;
@@ -46,23 +65,16 @@
 
 #book_reader_nav a {
   float: left;
-  color: black;
+  color: var(--text-color);
   text-align: center;
-  padding: 12px;
+  padding: 6px;
   text-decoration: none;
   font-size: 18px;
-  /* line-height: 25px; */
   border-radius: 4px;
 }
 
 #book_reader_nav a:hover {
-  background-color: #ddd;
-  color: black;
-}
-
-#book_reader_nav a.active {
-  background-color: dodgerblue;
-  color: white;
+  background-color: var(--reader-nav-hover);
 }
 
 .filter-nav {
@@ -70,7 +82,7 @@
 }
 
 .nav_img {
-  color: #C00;
+  color: var(--reader-nav-img);
   text-decoration: none;
   height: 25px;
 }
@@ -85,17 +97,71 @@
   padding-top: 60px;
 }
 
-/* Book Container */
+
+/*
+
+  Book Reader
+
+*/
+
+.book_reader {
+  position: relative;
+  margin: auto;
+  display: flex;
+  justify-content:center;
+  max-width: 1000px;
+  padding-top: 50px;
+}
+/*
+
+  Explanation Container
+
+*/
+
+.explanation_container {
+  position:relative;
+  width: 150px;
+  display: none;
+}
+
+.explanation {
+  position: absolute;
+  top: 0px;
+  left: 5%;
+  max-height: 300px;
+  width: 150px;
+  z-index: 99;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 100px;
+  background-color: var(--explanation-bg);
+  padding: 5px;
+  font-size: 14px;
+  overflow-wrap: anywhere;
+  overflow-y: scroll;
+}
+
+.definiendum {
+  font-weight: bold;
+}
+
+.definiens {
+  font-weight: normal;
+}
+/*
+
+Book Container
+
+*/
 .book_container {
   position: relative;
-  max-width: 800px;
+  max-width: 700px;
   margin: 1em 4em;
 }
 
 .book_container * {
   font-family: 'Noto Serif', serif;
 }
-
 
 .book_title {
   text-align: center;
@@ -121,11 +187,20 @@
 
 }
 
+.book_toc {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 .book_toc_entry {
   font-size: 90%;
-  text-align: center;
+  border-right: 1px solid var(--toc-border-color);
   margin-top:5px;
   margin-bottom:5px;
+  padding-left:10px;
+  padding-right:10px;
+  text-align: center;
 }
 
 .book_description {
@@ -161,20 +236,22 @@ li {
   margin: 1em 0;
   line-height: 1.8em;
   font-size: 1.3em;
+  color: var(--text-color);
 }
 .chapter > .ref {
   font-size: 1.2em;
   margin: 1em 0 0.3em;
   text-align: center;
-  color: #C00;
+  color: var(--chapter-ref);
 }
 
 .verse {
   display: inline;
+  color: var(--text-color);
 }
 
 .verse > .ref {
-  color: #C00;
+  color: var(--verse-ref);
   font-size: 70%;
   font-family: sans-serif;
   line-height: 1;
@@ -186,15 +263,15 @@ li {
 .speech {
   margin: 1.25em 0;
   line-height: 1.8em;
-  /* font-size: 1.3em; */
   font-size: 16px;
+  color: var(--text-color);
 }
 
 .speech > .ref {
   position: absolute;
   right: 100%;
   margin-right: 1.5em;
-  color: #C00;
+  color: var(--speech-ref);;
   font-size: 70%;
   font-family: sans-serif;
 }
@@ -202,16 +279,17 @@ li {
 .speaker {
   font-weight: bold;
   font-size: 15px;
-  /* font-size: 1.2em; */
   margin: 0;
+  color: var(--text-color);
 }
 
 .sentence {
   display: inline;
+  color: var(--text-color);
 }
 
 .sentence > .ref {
-  color: #C00;
+  color: var(--sentence-ref);
   font-size: 70%;
   font-family: sans-serif;
   line-height: 1;
@@ -222,12 +300,13 @@ li {
 
 .paragraph {
   margin: 1.8em 0;
+  color: var(--text-color);
 }
 .paragraph > .ref {
   position: absolute;
   right: 100%;
   margin-right: 1.5em;
-  color: #C00;
+  color: var(--paragraph-ref);
   font-family: sans-serif;
 }
 
@@ -235,9 +314,26 @@ li {
   position: absolute;
   left: 100%;
   margin-left: 1.5em;
-  color: #666;
+  color: var(--stephanus-text-color);
   font-size: 14pt;
   font-weight: normal;
+}
+
+.sidenote {
+  position: absolute;
+  left: 100%;
+  margin-top: 25px;
+  padding: 20px;
+  font-size: 11px;
+  min-width: 150px;
+  line-height: 1.25em;
+  color: var(--text-color);
+}
+
+.footnote {
+  margin-left: 25px;
+  font-size: 11px;
+  color: var(--text-color);
 }
 
 q::before {
@@ -247,12 +343,6 @@ q::after {
   content: "»";
 }
 /* Dark Mode CSS
-:root {
-  --body-bg: #fafafa;
-  --body-color: #555;
-  --link-color: #222;
-  --link-color-hover: #000;
-}
 
 @media (prefers-color-scheme: dark) {
   :root {

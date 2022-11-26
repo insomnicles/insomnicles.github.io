@@ -6,9 +6,15 @@ pinned: true
 
 <p class="message">Wonder is the feeling of a philosopher, and philosophy begins in wonder. <i>Theaetetus (155d)</i></p>
 
-Hello! This website is for anyone who wants to read Plato's dialogues and other works from around the time [Plato's academy](https://en.wikipedia.org/wiki/Platonic_Academy) was formed. The works are from
-[Guttenberg Project](https://www.gutenberg.org/) copies of the originals and other online sources of works in the public domain. Python and PHP Scripts used to create the viewable dialogues are on <a href="https://github.com/insomnicles/academy">GitHub</a>.
+Hello! This website is for anyone who wants to read Classical works, including Plato's and Aristotle's philosophical works, from around the time [Plato's academy](https://en.wikipedia.org/wiki/Platonic_Academy) was formed. The works are reformatted from [Guttenberg Project](https://www.gutenberg.org/) sources, which are in the public domain. Python and Shell scripts used to create the works are on <a href="https://github.com/insomnicles/academy">GitHub</a>.
 
+### [Aeschylus (520-456 BC)]({{ site.url }}/aeschylus)
+Tragedian.  Soldier.
+### [Sophocles (497-406 BC)]({{ site.url }}/sophocles)
+Tragedian.
+
+### [Euripides (480-406 BC)]({{ site.url }}/euripides)
+Tragedian.
 ### [Socrates (470-399 BC)]({{ site.url }}/2022/11/09/socrates/)
 
 Practitioner of Socratic elenchus or the "Socratic Method".
