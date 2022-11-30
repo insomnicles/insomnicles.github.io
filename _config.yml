@@ -1,7 +1,7 @@
 # Setup
 title:               The Academy
 tagline:             'Read Platonic Dialgoues'
-description:         'A place to read Platonic dialogues and other works from Platos Academy.'
+description:         'A place to read works of philosophy and drama from antiquity.'
 url:                 https://insomnicles.github.io
 baseurl:             ''
 paginate:            5
@@ -11,7 +11,7 @@ github:              https://github.com/insomnicles/academy
 # About/contact
 author:
   name:              Plato
-  url:               https://twitter.com/z99999z2a2aas99
+  url:               https://twitter.com
   email:             plato@gmail.com
 
 # Gems
