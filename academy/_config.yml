@@ -2,7 +2,7 @@
 title:               The Academy
 tagline:             'Read Platonic Dialgoues'
 description:         'A place to read works of philosophy and drama from antiquity.'
-url:                 https://insomnicles.github.io
+url:                 https://insomnicles.github.io/academy
 baseurl:             ''
 paginate:            5
 permalink:           pretty
