@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: academy-page
 title: Euripides
-permalink: /euripides
+permalink: /academy/euripides
 ---
 
 <p class="message">Wonder is the feeling of a philosopher, and philosophy begins in wonder. <i>Theaetetus (155d)</i></p>
@@ -10,14 +10,14 @@ permalink: /euripides
     <tr><th colspan="4">Surviving Tragedies, Dramas and Satyr Plays</th></tr>
     <tr>
       <td>Alcestis (438BC)</td>
-      <td><a href="https://librivox.org/alcestis-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/alcestis-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy/satyr</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Medea (431)</td>
-      <td><a href="https://librivox.org/medea-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/medea-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy</td>
       <td></td>
       <td></td>
@@ -31,7 +31,7 @@ permalink: /euripides
     </tr>
     <tr>
       <td>Hippolytus (428BC)</td>
-      <td><a href="https://librivox.org/hippolytus-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/hippolytus-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy</td>
       <td></td>
       <td></td>
@@ -45,7 +45,7 @@ permalink: /euripides
     </tr>
     <tr>
       <td>Hecuba (424BC)</td>
-      <td><a href="https://librivox.org/hecuba-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/hecuba-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy</td>
       <td></td>
       <td></td>
@@ -66,21 +66,21 @@ permalink: /euripides
     </tr>
   <tr>
       <td>Electra (416BC)</td>
-      <td><a href="https://librivox.org/electra-murray-translation-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/electra-murray-translation-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>The Trojan Women (415BC)</td>
-      <td><a href="https://librivox.org/the-trojan-women-coleridge-translation-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/the-trojan-women-coleridge-translation-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Iphigenia in Tauris (414BC)</td>
-      <td><a href="https://librivox.org/iphigenia-in-tauris-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/iphigenia-in-tauris-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>drama</td>
       <td></td>
       <td></td>
@@ -108,21 +108,21 @@ permalink: /euripides
     </tr>
     <tr>
       <td>Orestes (408BC)</td>
-      <td><a href="https://librivox.org/orestes-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/orestes-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Bacchae (405BC)</td>
-      <td><a href="https://librivox.org/the-bacchae-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/the-bacchae-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
       <td>Iphigenia in Aulis (405BC)</td>
-      <td><a href="https://librivox.org/iphigenia-in-aulis-by-euripides/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/iphigenia-in-aulis-by-euripides/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>tragedy</td>
       <td></td>
       <td></td>
@@ -136,7 +136,7 @@ permalink: /euripides
     </tr>
     <tr>
       <td>Cyclops</td>
-      <td><a href="https://librivox.org/one-act-play-collection-013-by-various/"><img style="margin:0px" src="../images/speaker.png" height="25px" width="25px" /></a></td>
+      <td><a href="https://librivox.org/one-act-play-collection-013-by-various/"><img style="margin:0px" src="{{ site.baseurl}}/images/speaker.png" height="25px" width="25px" /></a></td>
       <td>satyr</td>
       <td></td>
       <td></td>

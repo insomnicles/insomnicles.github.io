@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/cratylus
+permalink: /academy/plato/cratylus
 ---
 
 <div id="book_reader_container" >

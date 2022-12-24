@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /aristotle/treatise-on-government
+permalink: /academy/aristotle/treatise-on-government
 ---
 
 <div id="book_reader_container" >

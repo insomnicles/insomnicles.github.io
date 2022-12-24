@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/sophist
+permalink: /academy/plato/sophist
 ---
 
 <div id="book_reader_container" >

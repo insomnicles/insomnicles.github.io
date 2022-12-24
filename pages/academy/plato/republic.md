@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/republic
+permalink: /academy/plato/republic
 ---
 
 <div id="book_reader_container" >

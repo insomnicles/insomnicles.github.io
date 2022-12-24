@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/theaetetus
+permalink: /academy/plato/theaetetus
 ---
 
 <div id="book_reader_container" >

@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/critias
+permalink: /academy/plato/critias
 ---
 
 <div id="book_reader_container" >

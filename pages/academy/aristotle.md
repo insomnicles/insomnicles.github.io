@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: academy-page
 title: Aristotle
-permalink: /aristotle
+permalink: /academy/aristotle
 ---
 
 <p class="message">All men by nature desire to know. <i>Metaphysics I</i></p>
@@ -10,35 +10,34 @@ permalink: /aristotle
   <tbody>
     <tr><th colspan="4"></th></tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/aristotle/nico-ethics">Nichomachean Ethics</a></td>
-      <td> [GUT]</td>
+      <td><a href="{{ site.baseurl }}/academy/aristotle/nico-ethics">Nichomachean Ethics</a></td>
+      <td></td>
       <td>What is happiness? What is to be virtuous?</td>
       <td></td>
       <td></td>
-      <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/aristotle/poetics-bywater">Poetics</a></td>
-      <td>tr. Bywater [GUT]</td>
+      <td><a href="{{ site.baseurl }}/academy/aristotle/poetics-bywater">Poetics</a></td>
+      <td>tr. Bywater</td>
       <td>What is art / poetry?</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/aristotle/poetics-butcher">Poetics</a></td>
-      <td>tr. Butcher [GUT]</td>
+      <td><a href="{{ site.baseurl }}/academy/aristotle/poetics-butcher">Poetics</a></td>
+      <td>tr. Butcher</td>
       <td>What is art / poetry?</td>
       <td></td>
       <td></td>
     </tr>
     <tr>
-      <td><a href="{{ site.baseurl}}/aristotle/treatise-on-government">Treatise on Government</a></td>
-      <td>[GUT]</td>
+      <td><a href="{{ site.baseurl }}/academy/aristotle/treatise-on-government">Treatise on Government</a></td>
+      <td></td>
       <td>What is a just state?</td>
       <td></td>
       <td></td>
     </tr>
-    <tr>
+    <!-- <tr>
       <td><a href="{{ site.baseurl}}/aristotle/athenian-constitution">Athenian Constitution</a></td>
       <td>tr. Sir Frederic G. Kenyon [CA]</td>
       <td></td>
@@ -269,7 +268,7 @@ permalink: /aristotle
       <td></td>
       <td></td>
       <td></td>
-    </tr>
+    </tr> -->
   </tbody>
 </table>
 

@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/alcibiadesI
+permalink: /academy/plato/alcibiadesI
 ---
 
 <div id="book_reader_container" >

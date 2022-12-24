@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: academy-page
 title: Xenophon
-permalink: /xenophon
+permalink: /academy/xenophon
 ---
 
 <!--<p class="message">All men by nature desire to know. <i>Metaphysics I</i></p> -->

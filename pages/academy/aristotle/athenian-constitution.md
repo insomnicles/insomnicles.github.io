@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /aristotle/athenian-constitution
+permalink: /academy/aristotle/athenian-constitution
 ---
 
 <div id="book_reader_container" >

@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/statesman
+permalink: /academy/plato/statesman
 ---
 
 <div id="book_reader_container" >

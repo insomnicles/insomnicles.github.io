@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/parmenides
+permalink: /academy/plato/parmenides
 ---
 
 <div id="book_reader_container" >

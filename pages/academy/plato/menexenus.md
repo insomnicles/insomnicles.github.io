@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/menexenus
+permalink: /academy/plato/menexenus
 ---
 
 <div id="book_reader_container" >

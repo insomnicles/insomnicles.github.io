@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /aristotle/poetics-butcher
+permalink: /academy/aristotle/poetics-butcher
 ---
 
 <div id="book_reader_container" >

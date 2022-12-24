@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/symposium
+permalink: /academy/plato/symposium
 ---
 
 <div id="book_reader_container" >

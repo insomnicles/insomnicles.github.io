@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/apology
+permalink: /academy/plato/apology
 ---
 
 <div id="book_reader_container" >

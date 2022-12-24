@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/timaeus
+permalink: /academy/plato/timaeus
 ---
 
 <div id="book_reader_container" >

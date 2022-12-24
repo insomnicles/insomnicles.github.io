@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/euthyphro
+permalink: /academy/plato/euthyphro
 ---
 
 <div id="book_reader_container" >

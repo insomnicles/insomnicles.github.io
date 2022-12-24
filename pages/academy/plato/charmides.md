@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/charmides
+permalink: /academy/plato/charmides
 ---
 
 <div id="book_reader_container" >

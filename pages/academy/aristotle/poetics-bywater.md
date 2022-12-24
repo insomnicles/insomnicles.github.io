@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /aristotle/poetics-bywater
+permalink: /academy/aristotle/poetics-bywater
 ---
 
 <div id="book_reader_container" >

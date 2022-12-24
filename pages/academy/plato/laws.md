@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/laws
+permalink: /academy/plato/laws
 ---
 
 <div id="book_reader_container" >

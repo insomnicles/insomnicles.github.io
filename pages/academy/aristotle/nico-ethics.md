@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /aristotle/nico-ethics
+permalink: /academy/aristotle/nico-ethics
 ---
 
 <div id="book_reader_container" >

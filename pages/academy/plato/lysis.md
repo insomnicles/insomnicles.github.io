@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/lysis
+permalink: /academy/plato/lysis
 ---
 
 <div id="book_reader_container" >

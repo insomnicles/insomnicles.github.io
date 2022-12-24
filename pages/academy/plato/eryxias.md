@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/eryxias
+permalink: /academy/plato/eryxias
 ---
 
 <div id="book_reader_container" >

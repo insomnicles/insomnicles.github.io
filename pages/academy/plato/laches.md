@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/laches
+permalink: /academy/plato/laches
 ---
 
 <div id="book_reader_container" >

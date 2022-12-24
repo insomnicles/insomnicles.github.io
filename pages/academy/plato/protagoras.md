@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/protagoras
+permalink: /academy/plato/protagoras
 ---
 
 <div id="book_reader_container" >

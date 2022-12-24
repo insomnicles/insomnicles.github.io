@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/phaedrus
+permalink: /academy/plato/phaedrus
 ---
 
 <div id="book_reader_container" >

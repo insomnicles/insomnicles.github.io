@@ -1,6 +1,6 @@
 ---
 layout: book
-permalink: /plato/gorgias
+permalink: /academy/plato/gorgias
 ---
 
 <div id="book_reader_container" >
