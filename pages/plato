@@ -6,16 +6,16 @@ permalink: /academy/plato/timaeus
 <div id="book_reader_container" >
 <div id="book_reader_nav" onload="navSetup()">
 <a href="/"></a>
-<a href="#" onclick="return showToc()" ><img class="nav_img filter-nav" src="{{ site.url }}/images/icons/toc.svg" /></a>
-<a href="#" onclick="return firstSection()" ><img class="nav_img filter-nav" src="{{ site.url }}/images/icons/navigate_skip_previous.svg" /></a>
-<a href="#" onclick="return previousSection()" ><img class="nav_img filter-nav" src="{{ site.url }}/images/icons/navigate_previous.svg" /></a>
-<a href="#" onclick="return nextSection()" ><img class="nav_img filter-nav" src="{{ site.url }}/images/icons/navigate_next.svg" /></a>
-<a href="#" onclick="return lastSection()" ><img class="nav_img filter-nav" src="{{ site.url }}/images/icons/navigate_skip_next.svg" /></a>
-<a href="#" onclick="return showExplanations()" ><img class="nav_img filter-nav" src="{{ site.url }}/images/icons/quick_ref.svg" /></a>
-<a href="#" onclick="return hideRefs()" ><img class="nav_img filter-nav" src="{{ site.url }}/images/icons/info.svg" /></a>
-<a href="#" onclick="return formatSize()" ><img class="nav_img filter-nav" src="{{ site.url }}/images/icons/format_size.svg" /></a>
-<a href="#" onclick="return darklightMode('dark')" ><img id="link_dark_mode" class="nav_img filter-nav" src="{{ site.url }}/images/icons/dark_mode.svg" /></a>
-<a href="#" onclick="return darklightMode('light')" ><img id="link_light_mode" class="nav_img filter-nav" style="display:none;" src="{{ site.url }}/images/icons/light_mode.svg" /></a>
+<a href="#" onclick="return showToc()" ><img class="nav_img filter-nav" src="images/icons/toc.svg" /></a>
+<a href="#" onclick="return firstSection()" ><img class="nav_img filter-nav" src="images/icons/navigate_skip_previous.svg" /></a>
+<a href="#" onclick="return previousSection()" ><img class="nav_img filter-nav" src="images/icons/navigate_previous.svg" /></a>
+<a href="#" onclick="return nextSection()" ><img class="nav_img filter-nav" src="images/icons/navigate_next.svg" /></a>
+<a href="#" onclick="return lastSection()" ><img class="nav_img filter-nav" src="images/icons/navigate_skip_next.svg" /></a>
+<a href="#" onclick="return showExplanations()" ><img class="nav_img filter-nav" src="images/icons/quick_ref.svg" /></a>
+<a href="#" onclick="return hideRefs()" ><img class="nav_img filter-nav" src="images/icons/info.svg" /></a>
+<a href="#" onclick="return formatSize()" ><img class="nav_img filter-nav" src="images/icons/format_size.svg" /></a>
+<a href="#" onclick="return darklightMode('dark')" ><img id="link_dark_mode" class="nav_img filter-nav" src="images/icons/dark_mode.svg" /></a>
+<a href="#" onclick="return darklightMode('light')" ><img id="link_light_mode" class="nav_img filter-nav" style="display:none;" src="images/icons/light_mode.svg" /></a>
 </div>
 
 <div class="book_reader">

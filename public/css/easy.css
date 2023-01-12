@@ -2,31 +2,36 @@
 
 /* https://coolors.co/palette/780000-c1121f-fdf0d5-003049-669bbc */
 :root {
+  /* Color Palette */
   --primary: #780000;
   --primary-light: #C1121F;
   --secondary-dark: #003049;
   --secondary-light: #669BBC;
-  --background-light: #FDF0D5;
+  --tertiary-light: #FDF0D5;
   --highlight: #C8C8C8;
 
   --link-color: var(--primary-light);
   --link-color-hover: var(--primary);
   --text-color: black;
 
-  --explanation-bg: var(--background-light);
+  /* Nav Bar */
+  --nav-bg-color: var(--tertiary-light);
+  --nav-hover-color: var(--highlight);
+  --nav-img-color: var(--link-color);
 
-  --reader-nav-bg: var(--background-light);
-  --reader-nav-hover: var(--highlight);
-  --reader-nav-img: var(--link-color);
+  --explanation-bg-color: var(--tertiary-light);
+  --explanation-color: var(--text-color);
 
+  /* Table of Contents */
   --toc-border-color: var(--text-color);
 
+  /* In text */
   --chapter-ref: var(--primary-light);
   --speech-ref: var(--primary-light);
   --sentence-ref: var(--primary-light);
   --paragraph-ref: var(--primary-light);
   --verse-ref: var(--primary-light);
-  --stephanus-text-color: var(--text-color);
+  --annotation-text-color: var(--secondary-dark);
 }
 
 #book_reader_container {
@@ -48,17 +53,16 @@
   text-decoration: underline;
 }
 
-
 /* Book Reader Navigation Bar */
 #book_reader_nav {
   position: fixed;  /* Sticky/fixed book_reader_nav */
   overflow: hidden;
-  background-color: var(--reader-nav-bg);
+  background-color: var(--nav-bg-color);
   color: var(--text-color);
   width: 100%;
   top: 0;           /* At the top */
   margin-bottom: 10px;
-  z-index: 99;
+  z-index: 50;
   display:flex;
   justify-content:center;
 }
@@ -74,7 +78,7 @@
 }
 
 #book_reader_nav a:hover {
-  background-color: var(--reader-nav-hover);
+  background-color: var(--nav-hover-color);
 }
 
 .filter-nav {
@@ -82,7 +86,7 @@
 }
 
 .nav_img {
-  color: var(--reader-nav-img);
+  color: var(--nav-img-color);
   text-decoration: none;
   height: 25px;
 }
@@ -109,7 +113,7 @@
   margin: auto;
   display: flex;
   justify-content:center;
-  max-width: 1000px;
+  max-width: 1100px;
   padding-top: 50px;
 }
 /*
@@ -120,7 +124,7 @@
 
 .explanation_container {
   position:relative;
-  width: 150px;
+  width: 200px;
   display: none;
 }
 
@@ -129,12 +133,13 @@
   top: 0px;
   left: 5%;
   max-height: 300px;
-  width: 150px;
+  width: 200px;
   z-index: 99;
   position: -webkit-sticky;
   position: sticky;
   top: 100px;
-  background-color: var(--explanation-bg);
+  background-color: var(--explanation-bg-color);
+  color: var(--explanation-color);
   padding: 5px;
   font-size: 14px;
   overflow-wrap: anywhere;
@@ -148,6 +153,12 @@
 .definiens {
   font-weight: normal;
 }
+
+.explanation_selected {
+  color: var(--link-color);
+  background-color: var(--explanation-bg-color);
+}
+
 /*
 
 Book Container
@@ -204,10 +215,8 @@ Book Container
 }
 
 .book_description {
-  display: inline;
   margin-top:5px;
   margin-bottom:5px;
-  font-weight: bold;
 }
 
 .book_source_and_license {
@@ -232,11 +241,24 @@ li {
   text-align: center;
 }
 
+.part {
+  font-size: 1.3em;
+  font-weight: bold;
+}
+
+.ref {
+  position: absolute;
+  right: 100%;
+  margin-right: 1.5em;
+  color: var(--speech-ref);;
+  font-size: 70%;
+  font-family: sans-serif;
+}
+
 .chapter {
   margin: 1em 0;
   line-height: 1.8em;
   font-size: 1.3em;
-  color: var(--text-color);
 }
 .chapter > .ref {
   font-size: 1.2em;
@@ -247,7 +269,6 @@ li {
 
 .verse {
   display: inline;
-  color: var(--text-color);
 }
 
 .verse > .ref {
@@ -264,7 +285,6 @@ li {
   margin: 1.25em 0;
   line-height: 1.8em;
   font-size: 16px;
-  color: var(--text-color);
 }
 
 .speech > .ref {
@@ -280,12 +300,10 @@ li {
   font-weight: bold;
   font-size: 15px;
   margin: 0;
-  color: var(--text-color);
 }
 
 .sentence {
   display: inline;
-  color: var(--text-color);
 }
 
 .sentence > .ref {
@@ -298,9 +316,12 @@ li {
   top: -0.5em;
 }
 
+.text {
+  margin: 0.75em 0;
+  text-indent: 1em;
+}
 .paragraph {
   margin: 1.8em 0;
-  color: var(--text-color);
 }
 .paragraph > .ref {
   position: absolute;
@@ -310,13 +331,71 @@ li {
   font-family: sans-serif;
 }
 
+.poem {
+  text-indent: 0%;
+  margin-left: 10%;
+  font-size: 90%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+.image_container {
+  display:flex;
+  justify-content:center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.book_image {
+  text-align: center;
+  width:"300px";
+  height:"300px";
+}
+
+.image_caption {
+  max-width: 400px;
+  font-size: 12px;
+}
+
+
+figcaption {
+  max-width: 400px;
+  font-size: 12px;
+}
+
+.figcaption_number {
+  font-weight: bold;
+}
+
+
 .stephanus {
   position: absolute;
   left: 100%;
   margin-left: 1.5em;
-  color: var(--stephanus-text-color);
-  font-size: 14pt;
+  color: var(--annotation-text-color);
+  font-size: 12pt;
   font-weight: normal;
+}
+
+.page_lines {
+  position: absolute;
+  left: 100%;
+  margin-left: 1.5em;
+  color: var(--annotation-text-color);
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.text_original_page {
+  position: absolute;
+  right: 100%;
+  margin-left: 1.5em;
+  color: var(--annotation-text-color);
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.text_page_inline {
+  font-weight: bold;
 }
 
 .sidenote {
@@ -327,42 +406,23 @@ li {
   font-size: 11px;
   min-width: 150px;
   line-height: 1.25em;
-  color: var(--text-color);
 }
 
 .footnote {
   margin-left: 25px;
   font-size: 11px;
-  color: var(--text-color);
 }
 
+q {
+  font-style: italic;
+}
 q::before {
   content: "«";
 }
 q::after {
   content: "»";
 }
-/* Dark Mode CSS
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    --body-bg: #212529;
-    --body-color: #6c757d;
-    --link-color: #dee2e6;
-    --link-color-hover: #fff;
-  }
-  body {
-    background-color: red;
-  }
-  .book_reader {
-    background-color: blue;
-  }
-  img {
-    opacity: .75;
-    transition: opacity .5s ease-in-out;
-  }
-  img:hover {
-    opacity: 1;
-  }
-} */
-
+  /* defaults to dark theme */
+}
