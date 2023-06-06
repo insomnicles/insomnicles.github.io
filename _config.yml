@@ -1,25 +1,90 @@
-# Setup
-title:               The Academy
-tagline:             'Read Platonic Dialgoues'
-description:         'A place to read works of philosophy and drama from antiquity.'
-url:                 https://insomnicles.github.io
-baseurl:             ''
-academyurl:          'academy'
-paginate:            5
-paginate_path:       "/blog/page:num/"
-permalink:           pretty
-github:              https://github.com/insomnicles/academy
+# Site settings
+title: George Belic # site title
+description: >- # site description
+  George Belic's personal website <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+lang: en-US # default lang
+timezone: America/Eastern # set your timezone
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/insomnicles/insomnicles.github.io # site repo [optional]
+mode: dark # default theme "dark" | "light"
 
-# About/contact
+# Profile settings
 author:
-  name:              Plato
-  url:               https://twitter.com
-  email:             plato@gmail.com
+  name: George Belic # author name
+  bio: >- # tell to the world
+    Hi. Here are a few things from my world of code and philosophy. <a href="https://github.com/insomnicles" target="_blank" rel="noopener">@github</a>.
+  username: username # general username
+  github: insomnicles # github username
+  twitter: twitter_username # twitter username
+  facebook: facebook_username # facebook username
+  email: insomnicles9@gmail.com # email adress
+  avatar: /assets/img/kadinsky-1922-small-worlds-I-small.jpg # change with your own avatar
 
-# Gems
+# URL settings
+url: "https://klise.now.sh" #
+baseurl:
+permalink: /:title/
+google_analytics: # leave it blank if not wish
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
 plugins:
-  - jekyll-paginate
-
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
