@@ -6,9 +6,9 @@
     #  url: /academy/
     #  external: false
 
-#- title: papers
-#  url: /papers/
-#  external: false
+- title: papers
+  url: /papers/
+  external: false
 
 #- title: archive
 #url: /archive/

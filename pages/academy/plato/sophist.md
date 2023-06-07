@@ -1,5 +1,5 @@
 ---
-layout: book
+layout: reader
 permalink: /academy/plato/sophist
 ---
 
