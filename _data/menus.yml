@@ -2,21 +2,29 @@
   url: /
   external: false
 
-    #- title: academy
-    #  url: /academy/
-    #  external: false
+- title: code
+  url: /code/
+  external: false
+
+- title: courses
+  url: /courses/
+  external: false
 
 - title: papers
   url: /papers/
   external: false
 
-#- title: archive
-#url: /archive/
-#  external: false
+- title: academy
+  url: /academy/
+  external: false
 
-- title: about
-  url: /about/
-  external: false # set true if you using external link, see below
+- title: archive
+  url: /archive/
+  external: false
+
+#- title: about
+#  url: /about/
+#  external: false # set true if you using external link, see below
 
 # Example:
 # - title: github

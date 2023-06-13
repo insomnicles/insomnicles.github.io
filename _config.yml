@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: George Belic # author name
   bio: >- # tell to the world
-    Hi. Here are a few things from my world of code and philosophy. <a href="https://github.com/insomnicles" target="_blank" rel="noopener">@github</a>.
+    Hi. I'm a computer programmer and philosopher from Toronto, Canada. 🎒  [now.sh](http://now.sh) Here are a few things from my world of code and philosophy. <a href="https://github.com/insomnicles" target="_blank" rel="noopener">@github</a>. Btw, this site is built with jekyll and the <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a> theme.
   username: username # general username
   github: insomnicles # github username
   twitter: twitter_username # twitter username

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-06-12T16:43:51+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">George Belic</title><subtitle>George Belic&apos;s personal website &lt;a href=&quot;https://github.com/piharpi&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@github&lt;/a&gt;.</subtitle><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><entry><title type="html">Introduction to Philosophy</title><link href="http://localhost:4000/intro-to-phil/" rel="alternate" type="text/html" title="Introduction to Philosophy" /><published>2021-06-16T22:57:49+00:00</published><updated>2021-06-16T22:57:49+00:00</updated><id>http://localhost:4000/intro-to-phil</id><content type="html" xml:base="http://localhost:4000/intro-to-phil/"><![CDATA[<!--### Title  -->
+<p>:watch</p>
+
+\[\begin{align*}
+\Huge\Phi\iota\lambda\omicron\sigma\omicron\phi\iota\alpha &amp;= \text{love of wisdom}\\
+\end{align*}\]
+
+<h3 id="description">Description</h3>
+
+<p>This is an introduction to philosophy. It covers the central problems of the central subfields: ethics, philosophy of religion, metaphysics, epistemology.</p>
+
+<h3 id="lectures">Lectures</h3>
+
+<table>
+  <tbody>
+    <!-- Methodology -->
+    <tr><th colspan="4">Methodology</th></tr>
+    <tr><td></td><td>Literature and Greek Tragedy</td><td>Sophocles. <a href="/assets/courses/intro/readings/sophocles-antigone.pdf">Antigone</a><br /><a href="https://www.imdb.com/title/tt0055375/">Film: Antigone (1961)</a><br /></td></tr>
+    <tr><td></td><td>Religion</td><td></td></tr>
+    <tr><td></td><td>Science, Pseudo-Science</td><td><a href="ihttps://www.youtube.com/watch?v=EYPapE-3FRw">Feynman - Lectures on Physics</a><br /><a href="https://plato.stanford.edu/entries/scientific-method/">SEP - Scientific Method</a></td></tr>
+    <tr><td></td><td><a href="/assets/courses/intro/lectures/3-method.pdf">Philosophical Method</a></td><td>Plato, <a href="/assets/courses/intro/readings/plato-euthyphro.pdf">Euthyphro</a><br />Russell, Bertrand. <a href="/assets/courses/intro/readings/russell-value-of-philosophy.pdf">The Value of Philosophy</a><br />Plato. Apology.</td></tr>
+    <!-- Ethics -->
+    <tr><th colspan="3">Ethics</th></tr>
+    <tr><td></td><td>Relativism and Post-Modernism</td><td></td></tr>
+    <tr><td></td><td>Egoism and Hedonism</td><td></td></tr>
+    <tr><td></td><td><a href="/assets/courses/intro/lectures/4-utilitarianism.pdf">Utilitarianism</a></td><td>John Stuart Mill, <a href="/assets/courses/intro/readings/mill-utilitarianism.pdf">Utilitarianism</a></td></tr>
+    <tr><td></td><td><a href="/assets/courses/intro/lectures/5-deontology.pdf">Deontology</a></td><td>Kant, I. <a href="/assets/courses/intro/readings/kant-c.pdf">Critique</a><br />Velleman. <a href="https://www.google.com">Outline of Kant's Ethics</a></td></tr>
+    <tr><td></td><td><a href="/assets/courses/intro/lectures/6-virtue-ethics.pdf">Virtue Ethics</a></td><td>Aristotle, <a href="/assets/courses/intro/readings/aristotle-nicomachean-ethics-I-II.pdf">Nicomachean Ethics - Books I and II</a></td></tr>
+    <!-- Political Philosophy -->
+    <tr><th colspan="3">Political Philosophy</th></tr>
+    <tr><td></td><td>Libertarianism</td><td>Anarchy, State and Utopia.</td></tr>
+    <tr><td></td><td>Socialism</td><td> <br />Marx. K. Communist Manifesto</td></tr>
+    <tr><td></td><td>Liberalism</td><td>Rawls, J. A Theory of Justice</td></tr>
+    <!-- Phliosophy of Mind -->
+    <tr><th colspan="3">Freewill and Determinism</th></tr>
+    <tr><td></td><td>Liberalism</td><td>Campbell, C.A. In Defence of Free Will</td></tr>
+    <tr><td></td><td>Hard-Determinism</td><td>Holbach. Determinism.</td></tr>
+    <tr><td></td><td>Compatibilism</td><td>Ayer, A. J. Language, Truth and Logic (excerpt)<br />Frankfurt, H. Alternative Possibilities and Moral Responsibility</td></tr>
+    <tr><th colspan="3">Philosophy of Mind</th></tr>
+    <tr><td></td><td>Dualism</td><td>Descartes, R. Meditations II.</td></tr>
+    <tr><td></td><td>Behaviorism</td><td>Skinner, B. F. Verbal Behavior <br />Chomsky, N. Review</td></tr>
+    <tr><td></td><td>Identity Theory</td><td>Smart, J. J. </td></tr>
+    <tr><td></td><td>Functionalism</td><td></td></tr>
+    <!-- 2Dimensionalism: Chalmers, Consciousness and its Place in Nature -->
+    <tr><td></td><td>Can Computers Think?</td><td>Turing, A. "Can machines Think?"<br />Searle, J. "Chinese Room Experiment"</td></tr>
+    <!-- Philosophy of Religion -->
+    <tr><th colspan="3">Philosophy of Religion</th></tr>
+    <tr><td></td><td>Ontological Argument</td><td>St. Anselm. <br />Kant, I.</td></tr>
+    <tr><td></td><td>Cosmological Argument</td><td></td></tr>
+    <tr><td></td><td>Design Argument</td><td>Paley, W. Natural Theology.<br />Hume, D.</td></tr>
+    <tr><td></td><td>The Problem of Evil</td><td>Hume, D.</td></tr>
+    <!-- Epistemology -->
+    <tr><th colspan="3">Epistemology</th></tr>
+    <tr><td></td><td>Skepticism</td><td>Pyrrho. Outlines of Skepticism.</td></tr>
+    <tr><td></td><td>External World Skepticism</td><td>Descartes, R. Meditations I, II</td></tr>
+    <tr><td></td><td>The Problem of Induction</td><td>Hume, D. Enquiry</td></tr>
+    <!-- Metaphysics -->
+    <tr><th colspan="3">Metaphysics</th></tr>
+    <tr><td></td><td>Realism</td><td>Russell, B. Appearance and Reality.<br />Locke, J. Essay on Human Understanding.</td></tr>
+    <tr><td></td><td>Idealism</td><td>Berkeley, G.<br />Quantum Mechanics and Anti-Realism</td></tr>
+    <tr><td></td><td>Pragmatism</td><td>Peirce, C. Pragmaticism.</td></tr>
+    <tr><td></td><td>Truth</td><td>Bertand, Russell. Problems of Philosophy. Truth.</td></tr>
+</tbody>
+</table>
+
+<h3 id="furhter-readings-and-viewings">Furhter Readings and Viewings</h3>
+<ul>
+  <li><strong><em>Methodology</em></strong>
+    <ul>
+      <li>Feynman, Richard. Lectures on Physics.</li>
+    </ul>
+  </li>
+  <li><strong><em>Ethics</em></strong>
+    <ul>
+      <li>Michael Sandel, <a href="https://www.youtube.com/watch?v=kBdfcR-8hEY&amp;list=PL30C13C91CFFEFEA6">Justice: What’s the right thing to do?</a></li>
+    </ul>
+  </li>
+  <li><strong><em>Political Philosophy</em></strong>
+    <ul>
+      <li>sadfasdf</li>
+    </ul>
+  </li>
+  <li><strong><em>Freewill</em></strong>
+    <ul>
+      <li>asdfasd</li>
+    </ul>
+  </li>
+  <li><strong><em>Philosophy of Mind</em></strong>
+    <ul>
+      <li><a href="https://www.ted.com/talks/david_chalmers_how_do_you_explain_consciousness?language=en">TedTalk: David Chalmers -How do you explain consciousness? </a></li>
+    </ul>
+  </li>
+  <li><strong><em>Philosophy of Religion</em></strong>
+    <ul>
+      <li>On God’s Existence: Bertrand Russell (Agnostism) vs Copleston (Theism)</li>
+    </ul>
+  </li>
+  <li><strong><em>Epistemology</em></strong></li>
+  <li><strong><em>Metaphysics</em></strong></li>
+</ul>]]></content><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><category term="course" /><category term="philosophy" /><category term="intro-to-philosophy" /><summary type="html"><![CDATA[:watch]]></summary></entry><entry><title type="html">Jekyll Static Site Builder 👶</title><link href="http://localhost:4000/how-this-site-was-made/" rel="alternate" type="text/html" title="Jekyll Static Site Builder 👶" /><published>2018-09-28T02:45:47+00:00</published><updated>2018-09-28T02:45:47+00:00</updated><id>http://localhost:4000/how-this-site-was-made</id><content type="html" xml:base="http://localhost:4000/how-this-site-was-made/"><![CDATA[<p>The website html was made using Jekyll, a free open source static sites generator, using <a href="https://github.com/piharpi/klise">klisé</a>, one of its many available themes.</p>
+
+<ul>
+  <li><a href="https://jekyllrb.com/">Jekyll</a></li>
+  <li><a href="">Jekyll Source Code</a></li>
+  <li><a href="">Klise Theme</a></li>
+</ul>
+
+<hr />
+
+<p>The website can be deployed seemlessly on a number of platforms for free. This site is hosted on github which has support for jekyll. It is also deployable on netlify.</p>
+
+<p>If you have experience with markdown or html, you can setup the site yourself. You do have to learn github basic, but this is useful anyway if you write any code or even if you want version control for academic writing.</p>
+
+<p>All the services are free, source code the site was placed on my <a href="https://github.com/piharpi/mahendrata.now.sh">github</a> repository and intergration with <del><a href="https://netlify.com">netlify</a></del> service, another service that you can use is <a href="https://pages.github.com/">github page</a> for hosting your own static site.</p>
+
+<hr />
+
+<h4 id="lets-do-this">Let’s do this</h4>
+
+<p>So, before we start create a site, you need some tools, you can self paced for how to installing each tools, on this guide i’m just want to show you how to install jekyll and deploying in netlify, but make sure you have each tools below.</p>
+
+<h4 id="prerequisites">Prerequisites</h4>
+
+<p>Requirements before we doing magic show.</p>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/downloads/">Ruby</a> programming language</li>
+  <li><a href="https://git-scm.com">Git</a> (version control)</li>
+  <li><a href="https://netlify.com">Netlify</a> and <a href="https://github.com">Github</a> account</li>
+  <li><a href="https://bundler.io">Bundler</a></li>
+</ul>
+
+<h4 id="installation">Installation</h4>
+
+<p>First, you need some <a href="https://www.staticgen.com/">SSG</a>, there are many kind ssg, but in case i’m using Jekyll cause i’m already familiar with it, open your terminal and type command on below</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>bundle <span class="nb">install </span>jekyll <span class="c"># installing jekyll in your machine</span>
+<span class="nv">$ </span>jekyll new my-site <span class="o">&amp;&amp;</span> <span class="nb">cd </span>my-site <span class="c"># create new jekyll project</span>
+<span class="nv">$ </span>jekyll s <span class="c"># run jekyll server</span>
+</code></pre></div></div>
+
+<p>Now, jekyll is running on your local machine, open your browser and go to <code class="language-plaintext highlighter-rouge">localhost:4000</code> is default address from jekyll, press <kbd>CTRL</kbd> + <kbd>C</kbd> to stop the jekyll server.</p>
+
+<h4 id="adding-remote-repository">Adding remote repository</h4>
+
+<p>Before we adding remote repository, you must have <a href="https://github.com/new">github</a> repository, if already have repository, just add github remote address to your local folder, with the following commands</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>git init <span class="c"># initializing project folder</span>
+<span class="nv">$ </span>git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPO.git <span class="c"># change UPPERCASE with your own!</span>
+<span class="nv">$ </span>git add <span class="nt">-A</span> <span class="o">&amp;&amp;</span> git commit <span class="nt">-m</span> <span class="s2">"Initialize"</span> <span class="o">&amp;&amp;</span> git push <span class="nt">-u</span> origin master <span class="c"># push code to github</span>
+</code></pre></div></div>
+
+<p>Now check your github repository, make sure the files is uploaded correctly.</p>
+
+<h4 id="deploying-to-netlify">Deploying to netlify</h4>
+
+<p>Go <a href="https://netlify.com">netlify</a> dashboard, and following this step.</p>
+
+<ol>
+  <li>click <code class="language-plaintext highlighter-rouge">new site from git</code>, then choose <code class="language-plaintext highlighter-rouge">Github</code>.</li>
+  <li>then choose your repository where is the jekyll sources uploaded.</li>
+  <li>netlify smart enough to configuring, we just need’s are hosting’s are hosting’s are hosting’s are hosting to click <code class="language-plaintext highlighter-rouge">Deploy site button</code>.</li>
+</ol>
+
+<p>Wait for moment, and voila..! your site’s are hosting and using <code class="language-plaintext highlighter-rouge">.netlify.com</code> tld, if your website wants to look professional, just buy a domain from your favorite domain store. or if you the first time, I advice using namecheap.com<em>(isn’t sponsor)</em> *based on my experienced it provides good service and have various TLDs.</p>
+
+<p>So, what you waiting for, just create your own website for free.</p>]]></content><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><category term="netlify" /><category term="jekyll" /><category term="klise" /><category term="github" /><category term="static-site" /><category term="personal-website" /><summary type="html"><![CDATA[All the services are free, a source code for this site along with all the papers, notes, etc is available on github repository.]]></summary></entry></feed>
