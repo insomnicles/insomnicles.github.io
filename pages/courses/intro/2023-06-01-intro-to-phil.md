@@ -4,6 +4,7 @@ title:  Introduction to Philosophy
 date:   2021-06-16 22:57:49 +0000
 categories: course philosophy intro-to-philosophy
 usemathjax: true
+permalink: /courses/intro/
 ---
 
 <!--### Title  -->:watch

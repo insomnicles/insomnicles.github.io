@@ -1,11 +1,11 @@
 [
   
     {
-      "title"    : "Introduction to Philosophy",
-      "description" : "",
-      "tags"     : "",
-      "url"      : "/intro-to-phil/",
-      "date"     : "2021-06-16 22:57:49 +0000"
+      "title"    : "Linux Environment",
+      "description" : "A list of utilities for linux os.",
+      "tags"     : "unix/linux, environment",
+      "url"      : "/work-environment/",
+      "date"     : "2023-07-13 04:58:47 +0000"
     } ,
   
     {

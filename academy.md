@@ -48,7 +48,6 @@ You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is 
       <td></td>
       <td></td>
       <td></td>
-      <!-- https://iep.utm.edu/phaedo/ -->
     </tr>
 
 </table>
