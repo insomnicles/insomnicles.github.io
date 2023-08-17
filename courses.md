@@ -2,7 +2,7 @@
 title: Courses
 permalink: /courses/
 layout: page
-excerpt: Some course I taught in the past.
+excerpt: Some courses I taught in the past.
 comments: false
 ---
 
@@ -28,7 +28,7 @@ comments: false
 <!-- Intoduciton to Logic --> 
 <div style="display:block">
     <div style="display:flex">
-        <div style="width:75%; font-weight: bold"><a href="/course/logic-intro">Introduction to Logic</a></div>
+        <div style="width:75%; font-weight: bold"><a href="/courses/logic-intro">Introduction to Logic</a></div>
     </div>
 </div>
 <div style="display:flex; font-size: 11px">

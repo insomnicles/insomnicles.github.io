@@ -18,13 +18,19 @@ comments: false
 <!-- Github -->
 <div style="display:flex; font-size: 11px">
     <div style="font-weight:bold; font-size: 10px; margin-right: 1rem; width: 50px">Github</div>
-    <div><a href="http://github.io/insomnicles/">Academy Python</a></div>
+    <div><a href="https://github.com/insomnicles/academy">Academy Python</a></div>
 </div>
 <!-- Languages -->
 <div style="display:flex; font-size: 11px">
     <div style="font-weight:bold; font-size: 10px; margin-right: 1rem; width: 50px">Languages</div>
     <div style="width:25%"><a href="http://www.python.org"><img src="/assets/img/python-logo.svg" height="20px" /></a></div>
 </div>
+<!-- Laraexpress -->
+<div style="display:flex; font-size: 11px">
+    <div style="font-weight:bold; font-size: 10px; margin-right: 1rem; width: 50px">Laraexpress</div>
+    <div style="width:25%"><a href="https://github.com/insomnicles/laraexpress"><img src="/assets/img/python-logo.svg" height="20px" /></a></div>
+</div>
+
 
 
 <!-- Title -->
@@ -39,7 +45,7 @@ comments: false
 <!-- Github -->
 <div style="display:flex; font-size: 11px">
     <div style="font-weight:bold; font-size: 10px; margin-right: 1rem; width: 50px">Github</div>
-    <div><a href="http://github.io/insomnicles/">Laracache</a></div>
+    <div><a href="http://github.io/insomnicles/laracache">Laracache</a></div>
 </div>
 <!-- Languages -->
 <div style="display:flex; font-size: 11px">
