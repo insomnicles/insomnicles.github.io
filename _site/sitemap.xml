@@ -188,4 +188,8 @@
 <url>
 <loc>http://localhost:4000/academy/xenophon</loc>
 </url>
+<url>
+<loc>http://localhost:4000/assets/courses/intro-to-phil/readings/sophocles-antigone.pdf</loc>
+<lastmod>2023-08-22T22:25:09+00:00</lastmod>
+</url>
 </urlset>

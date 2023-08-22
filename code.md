@@ -43,6 +43,13 @@ comments: false
     <div style="font-weight:bold; font-size: 10px; margin-right: 1rem; width: 50px">Github</div>
     <div><a href="https://github.com/insomnicles/laracache">Laracache</a></div>
 </div>
+<!-- Languages -->
+<div style="display:flex; font-size: 11px">
+    <div style="font-weight:bold; font-size: 10px; margin-right: 1rem; width: 50px">Languages</div>
+    <div style="width:5%; margin-right:1rem"><a href="https://php.net"><img src="/assets/img/php-logo.svg" height="20px" /></a></div>
+    <div style="width:5%"><a href="https://laravel.com"><img src="/assets/img/laravel-logo.svg" height="20px" /></a></div>
+</div>
+
 
 <!-- Title -->
 <div style="display:flex; margin-top: 10pt">
@@ -58,4 +65,11 @@ comments: false
     <div style="font-weight:bold; font-size: 10px; margin-right: 1rem; width: 50px">Github</div>
     <div><a href="https://github.com/insomnicles/laraexpress">Laraexpress</a></div>
 </div>
+<!-- Languages -->
+<div style="display:flex; font-size: 11px">
+    <div style="font-weight:bold; font-size: 10px; margin-right: 1rem; width: 50px">Languages</div>
+    <div style="width:5%; margin-right:1rem"><a href="https://php.net"><img src="/assets/img/php-logo.svg" height="20px" /></a></div>
+    <div style="width:5%"><a href="https://laravel.com"><img src="/assets/img/laravel-logo.svg" height="20px" /></a></div>
+</div>
+
 

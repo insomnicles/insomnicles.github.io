@@ -20,6 +20,10 @@ $$
 
 This is an introduction to philosophy. It covers the central problems of the central subfields: ethics, philosophy of religion, metaphysics, epistemology.
 
+- There are two Course Readers: BOTH are required
+  - Readings (purchase): Course Reader (purchase here)
+  - Readings (download): <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/readings/101-reader.pdf">Introduction to Philosophy - Course Reader</a>
+
 ### Lectures
 
 <!-- Section: conservatism, https://plato.stanford.edu/entries/conservatism/ --> 
@@ -33,7 +37,7 @@ This is an introduction to philosophy. It covers the central problems of the cen
       <td>Fine Art, Tragedy and Rhetoric</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/fine-art.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
-        Sophocles. <a href="{{ site.baseurl }}/assets/courses/intro/readings/sophocles-antigone.pdf">Antigone</a><br>
+        Sophocles. <a href="/assets/courses/intro-to-phil/readings/sophocles-antigone.pdf">Antigone</a><br>
         <a href="https://www.imdb.com/title/tt0055375/">Film: Antigone (1961)</a>
       </td>
     </tr>
@@ -42,7 +46,7 @@ This is an introduction to philosophy. It covers the central problems of the cen
       <td>Science and Pseudo-Science</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/science.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
-        Richard Feynman. <a href="https://www.youtube.com/watch?v=EYPapE-3FRw">Lectures on Physics</a><br>
+        Richard Feynman. <a href="">Lectures on Physics</a><br>
         SEP. <a href="https://plato.stanford.edu/entries/scientific-method/">Scientific Method</a><br>
         SEP. <a href="https://plato.stanford.edu/entries/pseudo-science/">Science and Pseudo-Science</a>
       </td>
