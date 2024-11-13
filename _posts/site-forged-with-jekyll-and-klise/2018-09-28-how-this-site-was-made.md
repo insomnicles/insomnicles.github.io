@@ -70,3 +70,5 @@ Go [netlify](https://netlify.com) dashboard, and following this step.
 Wait for moment, and voila..! your site's are hosting and using `.netlify.com` tld, if your website wants to look professional, just buy a domain from your favorite domain store. or if you the first time, I advice using namecheap.com*(isn't sponsor)* \*based on my experienced it provides good service and have various TLDs.
 
 So, what you waiting for, just create your own website for free.
+
+dot.
