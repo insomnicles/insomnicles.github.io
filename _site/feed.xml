@@ -1,65 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2023-08-23T04:27:53+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">George Belic</title><subtitle>George Belic&apos;s personal website &lt;a href=&quot;https://github.com/piharpi&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@github&lt;/a&gt;.</subtitle><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><entry><title type="html">Linux Environment</title><link href="http://localhost:4000/work-environment/" rel="alternate" type="text/html" title="Linux Environment" /><published>2023-07-13T04:58:47+00:00</published><updated>2023-07-13T04:58:47+00:00</updated><id>http://localhost:4000/work-environment</id><content type="html" xml:base="http://localhost:4000/work-environment/"><![CDATA[<p>A list of some utilities, fonts and themes to beautify your linux setup.</p>
-
-<h5 id="desktop-environment">Desktop Environment</h5>
-<ul>
-  <li><a href="https://www.gnome.org/"> Gnome 4.0 Desktop Environment</a></li>
-  <li>Extensions: Tweak, Tiling, Extension List</li>
-  <li>Icons: CandyIcons</li>
-  <li>Theme: Sweet Theme v4.0: <a href="https://www.youtube.com/watch?v=i2hYYWiuKXM">YT Tutorial by Link Vegas</a></li>
-  <li>Sounds: Enchanted</li>
-  <li>Desktop Wallpapers</li>
-</ul>
-
-<h5 id="fonts">Fonts</h5>
-<ul>
-  <li><a href="https://www.nerdfonts.com/">Nerd Fonts</a> - JetBrains Mono (Patched). <a href="https://www.programmingfonts.org/#jetbrainsmono">Check it out.</a></li>
-</ul>
-
-<h5 id="terminal">Terminal</h5>
-<ul>
-  <li><a href="https://alacritty.org">Alacritty<a></a></a></li>
-  <li>Theme: <a href="https://draculatheme.com/">Dracula</a></li>
-</ul>
-
-<h5 id="shell">Shell</h5>
-<ul>
-  <li><a href="https://github.com/fish-shell/fish-shell">Fish Shell</a></li>
-  <li>Theme: Dracula</li>
-  <li>Fisher Plugin Manager</li>
-  <li><a href="https://starship.rs">Starship Prompt</a></li>
-</ul>
-
-<h5 id="tiling-manager">Tiling Manager</h5>
-<ul>
-  <li><a href="https://github.com/tmux/tmux/wiki#welcome-to-tmux">Tmux</a></li>
-  <li><a href="https://github.com/tmux-plugins/tpm">TPM Plugin Manager</a></li>
-  <li>TMUX Theme: <a href="https://draculatheme.com/">Dracula</a></li>
-  <li><a href="https://github.com/tmuxinator/tmuxinator">Tmuxinator</a></li>
-</ul>
-
-<h5 id="search">Search</h5>
-<ul>
-  <li><a href="https://github.com/junegunn/fzf">fzf: Command Line Fuzzy Finder</a></li>
-</ul>
-
-<h5 id="viewers">Viewers</h5>
-<ul>
-  <li>PDF: <a href="https://pwmt.org/projects/zathura/">Zathura</a>, Evince</li>
-  <li>Markdown: <a href="">mdless</a>, <a href="">Glow</a></li>
-  <li>Text files: <a href="">Bat</a></li>
-</ul>
-
-<h5 id="editor">Editor</h5>
-<ul>
-  <li><a href="">NeoVim</a></li>
-  <li>Plugins: <a href="">NvChad</a></li>
-  <li>Theme: TokyoDark</li>
-</ul>
-
-<h5 id="screen-recording">Screen Recording</h5>
-<ul>
-  <li><a href="https://gifcap.dev">Gifcap</a></li>
-</ul>]]></content><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><category term="unix/linux" /><category term="environment" /><summary type="html"><![CDATA[A list of utilities for linux os.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/apa-itu-shell/shell_evolution.png" /><media:content medium="image" url="http://localhost:4000/apa-itu-shell/shell_evolution.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Jekyll Static Site Builder 👶</title><link href="http://localhost:4000/how-this-site-was-made/" rel="alternate" type="text/html" title="Jekyll Static Site Builder 👶" /><published>2018-09-28T02:45:47+00:00</published><updated>2018-09-28T02:45:47+00:00</updated><id>http://localhost:4000/how-this-site-was-made</id><content type="html" xml:base="http://localhost:4000/how-this-site-was-made/"><![CDATA[<p>The website html was made using Jekyll, a free open source static sites generator, using <a href="https://github.com/piharpi/klise">klisé</a>, one of its many available themes.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-11-15T16:23:38+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">George Belic</title><subtitle>George Belic&apos;s personal website &lt;a href=&quot;https://github.com/piharpi&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@github&lt;/a&gt;.</subtitle><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><entry><title type="html">Jekyll Static Site Builder 👶</title><link href="http://localhost:4000/how-this-site-was-made/" rel="alternate" type="text/html" title="Jekyll Static Site Builder 👶" /><published>2018-09-28T02:45:47+00:00</published><updated>2018-09-28T02:45:47+00:00</updated><id>http://localhost:4000/how-this-site-was-made</id><content type="html" xml:base="http://localhost:4000/how-this-site-was-made/"><![CDATA[<p>The website html was made using Jekyll, a free open source static sites generator, using <a href="https://github.com/piharpi/klise">klisé</a>, one of its many available themes.</p>
 
 <ul>
   <li><a href="https://jekyllrb.com/">Jekyll</a></li>
@@ -126,4 +65,6 @@
 
 <p>Wait for moment, and voila..! your site’s are hosting and using <code class="language-plaintext highlighter-rouge">.netlify.com</code> tld, if your website wants to look professional, just buy a domain from your favorite domain store. or if you the first time, I advice using namecheap.com<em>(isn’t sponsor)</em> *based on my experienced it provides good service and have various TLDs.</p>
 
-<p>So, what you waiting for, just create your own website for free.</p>]]></content><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><category term="netlify" /><category term="jekyll" /><category term="klise" /><category term="github" /><category term="static-site" /><category term="personal-website" /><summary type="html"><![CDATA[All the services are free, a source code for this site along with all the papers, notes, etc is available on github repository.]]></summary></entry></feed>
+<p>So, what you waiting for, just create your own website for free.</p>
+
+<p>dot.</p>]]></content><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><category term="netlify" /><category term="jekyll" /><category term="klise" /><category term="github" /><category term="static-site" /><category term="personal-website" /><summary type="html"><![CDATA[All the services are free, a source code for this site along with all the papers, notes, etc is available on github repository.]]></summary></entry></feed>
