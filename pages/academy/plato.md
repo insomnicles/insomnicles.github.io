@@ -1,5 +1,5 @@
 ---
-layout: academy-page
+layout: page
 title: Plato
 permalink: /academy/plato
 ---
