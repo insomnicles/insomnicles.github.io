@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-11-15T16:23:38+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">George Belic</title><subtitle>George Belic&apos;s personal website &lt;a href=&quot;https://github.com/piharpi&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@github&lt;/a&gt;.</subtitle><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><entry><title type="html">Jekyll Static Site Builder 👶</title><link href="http://localhost:4000/how-this-site-was-made/" rel="alternate" type="text/html" title="Jekyll Static Site Builder 👶" /><published>2018-09-28T02:45:47+00:00</published><updated>2018-09-28T02:45:47+00:00</updated><id>http://localhost:4000/how-this-site-was-made</id><content type="html" xml:base="http://localhost:4000/how-this-site-was-made/"><![CDATA[<p>The website html was made using Jekyll, a free open source static sites generator, using <a href="https://github.com/piharpi/klise">klisé</a>, one of its many available themes.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en-US" /><updated>2024-11-15T16:45:43+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">George Belic</title><subtitle>George Belic&apos;s personal website &lt;a href=&quot;https://github.com/piharpi&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;@github&lt;/a&gt;.</subtitle><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><entry><title type="html">Test Post 👶</title><link href="http://localhost:4000/test-new-version/" rel="alternate" type="text/html" title="Test Post 👶" /><published>2024-11-15T04:31:22+00:00</published><updated>2024-11-15T04:31:22+00:00</updated><id>http://localhost:4000/test-new-version</id><content type="html" xml:base="http://localhost:4000/test-new-version/"><![CDATA[<p>testing new jekyll version <a href="https://github.com/piharpi/klise">klisé</a>, one of its many available themes.</p>
+
+<ul>
+  <li><a href="https://jekyllrb.com/">Jekyll</a></li>
+</ul>
+
+<hr />
+
+<p>test.</p>
+
+<hr />
+
+<h4 id="lets-do-this">Let’s do this</h4>
+
+<p>test.</p>]]></content><author><name>George Belic</name><email>insomnicles9@gmail.com</email></author><category term="test" /><summary type="html"><![CDATA[new jekyll version]]></summary></entry><entry><title type="html">Jekyll Static Site Builder 👶</title><link href="http://localhost:4000/how-this-site-was-made/" rel="alternate" type="text/html" title="Jekyll Static Site Builder 👶" /><published>2018-09-28T02:45:47+00:00</published><updated>2018-09-28T02:45:47+00:00</updated><id>http://localhost:4000/how-this-site-was-made</id><content type="html" xml:base="http://localhost:4000/how-this-site-was-made/"><![CDATA[<p>The website html was made using Jekyll, a free open source static sites generator, using <a href="https://github.com/piharpi/klise">klisé</a>, one of its many available themes.</p>
 
 <ul>
   <li><a href="https://jekyllrb.com/">Jekyll</a></li>
