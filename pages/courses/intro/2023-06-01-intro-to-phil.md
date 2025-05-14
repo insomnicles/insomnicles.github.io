@@ -18,13 +18,13 @@ permalink: /courses/intro/
 
 ### Description
 
-This is an introduction to philosophy. It covers the central problems in ethics, political philosophy, philosophy of religion, philosophy of mind, metaphysics and epistemology.
+This course covers a selection of central problems in ethics, political philosophy, philosophy of religion, philosophy of mind, metaphysics and epistemology.
 
-1. Syllabus
+Syllabus
 
-2. Readings: There is a course pack for some of the course readings. Most of the readings are available online (see links below).
+Readings: i. course pack, ii. online readings (see links below).
 
-3. Source: the online readings come from three sources: <a href="https://www.earlymoderntexts.com/">Early Modern Texts</a>, <a href="https://www.gutenberg.org">Gutenberg Project</a>, the <a href="https://plato.stanford.edu">Stanford Encyclopedia of Philosophy</a>. All Gutenberg Project works are in the public domain, while books and articles from Early-Modern-Text and SEP are free to use for non-commercial purposes. The course bibliography is available <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/readings/bibliography.pdf">here</a>.
+Online Sources: <a href="https://www.earlymoderntexts.com/">Early Modern Texts</a>, <a href="https://www.gutenberg.org">Gutenberg Project</a>, the <a href="https://plato.stanford.edu">Stanford Encyclopedia of Philosophy</a>. All Gutenberg Project works are in the public domain, while books and articles from Early-Modern-Text and SEP are free to use for non-commercial purposes. The course bibliography is available <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/readings/bibliography.pdf">here</a>.
 
 ### Lectures
 
