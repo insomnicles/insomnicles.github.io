@@ -1,7 +1,7 @@
 ---
 layout: course
-title:  Introduction to Philosophy
-date:   2021-06-16 22:57:49 +0000
+title: Introduction to Philosophy
+date: 2021-06-16 22:57:49 +0000
 categories: course philosophy intro-to-philosophy
 usemathjax: true
 permalink: /courses/intro/
@@ -9,10 +9,11 @@ permalink: /courses/intro/
 
 <!--### Title  -->
 
-$$ 
+$$
 \begin{align*}
 \Huge\Phi\iota\lambda\omicron\sigma\omicron\phi\iota\alpha &= \text{love of wisdom}\\
 \end{align*}
+
 
 $$
 
@@ -29,7 +30,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
 ### Lectures
 
 - starred readings [*] are required
-<!-- Section: conservatism, https://plato.stanford.edu/entries/conservatism/ --> 
+<!-- Section: conservatism, https://plato.stanford.edu/entries/conservatism/ -->
 
 <table>
   <tbody>
@@ -41,7 +42,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td>Art, Rhetoric and Religion</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/fine-art.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
-        [*] Sophocles. <a href="/assets/courses/intro-to-phil/readings/sophocles-antigone.pdf">Antigone</a><br>
+        [*] Sophocles. <a href="https://www.gutenberg.org/cache/epub/31/pg31-images.html">Antigone</a><br>
         Film: <a href="https://www.imdb.com/title/tt0055375/">Antigone (1961)</a>
       </td>
     </tr>
@@ -50,7 +51,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td>Science and Pseudo-Science</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/science.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
-        [*] Richard Feynman. <a href="https://www.feynmanlectures.caltech.edu/">Lectures on Physics</a><br>
+        <!-- [*] Richard Feynman. <a href="https://www.feynmanlectures.caltech.edu/">Lectures on Physics</a><br> -->
         SEP. <a href="https://plato.stanford.edu/entries/scientific-method/">Scientific Method</a><br>
         SEP. <a href="https://plato.stanford.edu/entries/pseudo-science/">Science and Pseudo-Science</a>
       </td>
@@ -69,7 +70,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td>
         [*] G. Belic. <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/philosophy-method.pdf">Argumentation</a><br>
         <!-- Plato. <a href="https://www.gutenberg.org/cache/epub/1672/pg1672-images.html">Gorgias: Socrates vs. Callicles</a><br> -->
-        Bertrand Russell. 1912. <a href="https://www.gutenberg.org/files/5827/5827-h/5827-h.htm">The Value of Philosophy</a> from <em>Problems of Philosophy</em>
+        Bertrand Russell. 1912. The Value of Philosophy from <em>Problems of Philosophy</em>
       </td>
     </tr>
    </tr>
@@ -104,7 +105,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/deontology.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Immanuel Kant. <a href="https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf">Groundwork of the Metaphysics of Morals</a><br>
-        [*] David Velleman. <a href="https://s18798.pcdn.co/artsampscience-jdvelleman/wp-content/uploads/sites/28224/2023/07/Velleman-Reading-Kants-Groundwork.pdf">Reading Kant's Groundwork</a>
+        [*] David Velleman. <em>Reading Kant's Groundwork</em>
       </td>
     </tr>
     <!-- Lecture 7: Virtue Ethics -->
@@ -346,8 +347,8 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td>A priori Knowledge</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
-        [*] Bertrand Russell. 1912. <a href="https://www.gutenberg.org/files/5827/5827-h/5827-h.htm">Problems of Philosophy</a>, Chapter VII and VIII.<br>
-        [*] A. J. Ayer. 1936. <em>Language, Truth and Logic</em>. <a href="{{ site.baseurl}}/assets/courses/intro/readings/ayer-language-truth-logic.pdf">A priori</a>
+        [*] Bertrand Russell. 1912. Chapter VII and VIII. <em>Problems of Philosophy</em><br>
+        [*] A. J. Ayer. 1936. A priori. <em>Language, Truth and Logic</em>
       </td>
     </tr>
     <tr><td colspan="3">&nbsp;</td></tr>
@@ -368,24 +369,16 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] George Berkeley. 1710. <a href="https://www.earlymoderntexts.com/assets/pdfs/berkeley1710.pdf">The Principles of Human Knowledge</a> (excerpts)<br>
-        <!-- ??Quantum Mechanics and Anti-Realism? -->
       </td>
     </tr>
     <tr>
       <td>Truth</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
-        [*] Bertand Russell. 1912. <a href="https://www.gutenberg.org/cache/epub/5827/pg5827-images.html">Truth</a> in <em>Problems of Philosophy</em><br>
+        [*] Bertand Russell. 1912. Truth in <em>Problems of Philosophy</em><br>
         William James. 1909. <a href="https://www.gutenberg.org/cache/epub/5117/pg5117-images.html">VIII. The Pragmatist Account of Truth</a> in <em>The Meaning of Truth</em>
       </td>
     </tr>
     <!-- Coda: Truth is what philosophy aim at. -->
   </tbody>
 </table>
-
-
-
-
-
-
-
