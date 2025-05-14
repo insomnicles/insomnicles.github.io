@@ -9,29 +9,28 @@ permalink: /courses/intro/
 
 <!--### Title  -->
 
-$$
-\begin{align*}
-\Huge\Phi\iota\lambda\omicron\sigma\omicron\phi\iota\alpha &= \text{love of wisdom}\\
-\end{align*}
-
-
-$$
+<!-- $$ -->
+<!-- \begin{align*} -->
+<!-- \Huge\Phi\iota\lambda\omicron\sigma\omicron\phi\iota\alpha &= \text{love of wisdom}\\ -->
+<!-- \end{align*} -->
+<!---->
+<!-- $$ -->
 
 ### Description
 
 This is an introduction to philosophy. It covers the central problems in ethics, political philosophy, philosophy of religion, philosophy of mind, metaphysics and epistemology.
 
-- Syllabus
-- Readings: there are two Course Readers: BOTH are required. Part of the course materials are available online from <a href="https://www.earlymoderntexts.com/">Early Modern Texts</a>, <a href="https://www.gutenberg.org">Gutenberg Project</a>, the <a href="https://plato.stanford.edu">Stanford Encyclopedia of Philosophy</a> and <a href="https://www.youtube.com">YouTube</a>.
-  1. Course Reader I (purchase here)
-  2. Course Reader II <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/readings/101-reader.pdf">Introduction to Philosophy - Course Reader</a>
-- the course <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/readings/bibliography.pdf">Bibliography</a> is available.
+1. Syllabus
+
+2. Readings: There is a course pack for some of the course readings. Most of the readings are available online (see links below).
+
+3. Source: the online readings come from three sources: <a href="https://www.earlymoderntexts.com/">Early Modern Texts</a>, <a href="https://www.gutenberg.org">Gutenberg Project</a>, the <a href="https://plato.stanford.edu">Stanford Encyclopedia of Philosophy</a>. All Gutenberg Project works are in the public domain, while books and articles from Early-Modern-Text and SEP are free to use for non-commercial purposes. The course bibliography is available <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/readings/bibliography.pdf">here</a>.
 
 ### Lectures
 
-- starred readings [*] are required
-<!-- Section: conservatism, https://plato.stanford.edu/entries/conservatism/ -->
+[*] readings are required
 
+<!-- Section: conservatism, https://plato.stanford.edu/entries/conservatism/ -->
 <table>
   <tbody>
     <!-- Methodology -->
