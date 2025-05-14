@@ -132,10 +132,10 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         <!-- Kant, Immanuel. <a href="{{ site.baseurl }}/assets/courses/intro/readings/.pdf">Excerpt</a><br> -->
-        [*] Peter Singer. 1977. <em>Animal Liberation</em><br>
-        [*] Peter Singer. <a href="https://www.youtube.com/results?search_query=peter+singer+animals">Animal Liberation, Forty Years On</a><br>
+        <!-- [*] Peter Singer. 1977. <em>Animal Liberation</em><br> -->
+        [*] Peter Singer. 1989. "All Animals Are Equal Peter Singer" In Tom Regan & Peter Singer, Animal Rights and Human Obligations. Cambridge University Press. pp. 215--226
 <!--         Tom Regan. <a href="{{ site.baseurl }}/assets/courses/intro/readings/.pdf">Excerpt</a><br> -->
-         Will Kymlicka. <a href="https://www.youtube.com/watch?v=dwmXkV3Wa4s">Membership Rights for Animals</a><br>
+        Will Kymlicka. <a href="https://www.youtube.com/watch?v=dwmXkV3Wa4s">Membership Rights for Animals</a><br> -->
         SEP: <a href="https://plato.stanford.edu/entries/moral-animal/">The Moral Status of Animals</a>
       </td>
     </tr>
@@ -170,7 +170,9 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] John Rawls. 1971. <em>A Theory of Justice</em> (excerpts)<br>
+
 <!-- Neoliberalism??? Friedman -->
+
         SEP. <a href="https://plato.stanford.edu/entries/liberalism">Liberalism</a>
       </td>
     </tr>
@@ -259,7 +261,9 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td>Ontological Argument for God</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
+
 <!-- https://sourcebooks.fordham.edu/basis/anselm-proslogium.asp -->
+
         [*] Saint Anselm. 1078. Proslogion<br>
         [*] Gaunilo. 10??. On Behalf of the Fool<br>
         Immanuel Kant. 1781. <a href="https://www.earlymoderntexts.com/assets/pdfs/kant1781part2.pdf">Existence is not a predicate</a> from <em>Critique of Pure Reason - The Dialectic</em>
@@ -294,7 +298,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td>The Logical Problem of Evil</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
-        [*] J. L. Mackie. 1955. <a href="https://www.jstor.org/stable/2251467">Evil and Omnipotence</a> 
+        [*] J. L. Mackie. 1955. <a href="https://www.jstor.org/stable/2251467">Evil and Omnipotence</a>
       </td>
     </tr>
     <tr>
@@ -330,7 +334,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] David Hume. 1740. <a href="https://www.earlymoderntexts.com/assets/pdfs/hume1740.pdf">A Treatise of Human Nature: Abstract</a><br>
-        David Hume. 1748. <a href="https://www.earlymoderntexts.com/assets/pdfs/hume1748.pdf">Enquiry Concerning Human Understanding</a> 
+        David Hume. 1748. <a href="https://www.earlymoderntexts.com/assets/pdfs/hume1748.pdf">Enquiry Concerning Human Understanding</a>
       </td>
     </tr>
     <tr>
@@ -343,6 +347,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
         <!-- Cognitive Science / AI -->
       </td>
     </tr>
+
    <tr>
       <td>A priori Knowledge</td>
       <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
