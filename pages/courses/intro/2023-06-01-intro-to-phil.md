@@ -20,11 +20,7 @@ permalink: /courses/intro/
 
 This course covers a selection of central problems in ethics, political philosophy, philosophy of religion, philosophy of mind, metaphysics and epistemology.
 
-Syllabus
-
-Readings: i. course pack, ii. online readings (see links below).
-
-Online Sources: <a href="https://www.earlymoderntexts.com/">Early Modern Texts</a>, <a href="https://www.gutenberg.org">Gutenberg Project</a>, the <a href="https://plato.stanford.edu">Stanford Encyclopedia of Philosophy</a>. All Gutenberg Project works are in the public domain, while books and articles from Early-Modern-Text and SEP are free to use for non-commercial purposes. The course bibliography is available <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/readings/bibliography.pdf">here</a>.
+Readings: i. course pack, ii. online readings. The online readings are from <a href="https://www.earlymoderntexts.com/">Early Modern Texts</a> (EM), <a href="https://www.gutenberg.org">Gutenberg Project</a> and the <a href="https://plato.stanford.edu">Stanford Encyclopedia of Philosophy</a> (SEP). All Gutenberg Project works are in the public domain. Books and articles from EM and SEP are free to use for non-commercial purposes. The course bibliography is available <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/readings/bibliography.pdf">here</a>.
 
 ### Lectures
 
@@ -132,9 +128,8 @@ Online Sources: <a href="https://www.earlymoderntexts.com/">Early Modern Texts</
       <td>
         <!-- Kant, Immanuel. <a href="{{ site.baseurl }}/assets/courses/intro/readings/.pdf">Excerpt</a><br> -->
         <!-- [*] Peter Singer. 1977. <em>Animal Liberation</em><br> -->
-        [*] Peter Singer. 1989. "All Animals Are Equal Peter Singer" In Tom Regan & Peter Singer, Animal Rights and Human Obligations. Cambridge University Press. pp. 215--226
-<!--         Tom Regan. <a href="{{ site.baseurl }}/assets/courses/intro/readings/.pdf">Excerpt</a><br> -->
-        Will Kymlicka. <a href="https://www.youtube.com/watch?v=dwmXkV3Wa4s">Membership Rights for Animals</a><br> -->
+        [*] Peter Singer. 1989. "All Animals Are Equal Peter Singer" In <em>Animal Rights and Human Obligations</em> pp. 215-226<br>
+        Will Kymlicka. <a href="https://www.youtube.com/watch?v=dwmXkV3Wa4s">Membership Rights for Animals</a><br>
         SEP: <a href="https://plato.stanford.edu/entries/moral-animal/">The Moral Status of Animals</a>
       </td>
     </tr>
