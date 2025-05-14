@@ -40,7 +40,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 1: Fine Art and Greek Tragedy -->
     <tr>
       <td>Art, Rhetoric and Religion</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/fine-art.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/fine-art.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Sophocles. <a href="https://www.gutenberg.org/cache/epub/31/pg31-images.html">Antigone</a><br>
         Film: <a href="https://www.imdb.com/title/tt0055375/">Antigone (1961)</a>
@@ -49,7 +49,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 2: Science and Pseudo-Science -->
     <tr>
       <td>Science and Pseudo-Science</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/science.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/science.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         <!-- [*] Richard Feynman. <a href="https://www.feynmanlectures.caltech.edu/">Lectures on Physics</a><br> -->
         SEP. <a href="https://plato.stanford.edu/entries/scientific-method/">Scientific Method</a><br>
@@ -59,14 +59,14 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 3: Philosophical Methodology --> 
     <tr>
       <td>Philosophy: Definition</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/philosophy-method.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/philosophy-method.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Plato. <a href="https://www.gutenberg.org/cache/epub/1656/pg1656-images.html">Apology</a><br>
         [*] G. Belic. <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/philosophy-method.pdf">Definition and Analysis</a><br>
       </td>
      <tr>
       <td>Philosophy: Argument</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/philosophy-definition.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/philosophy-definition.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] G. Belic. <a href="{{ site.baseurl }}/assets/courses/intro-to-phil/philosophy-method.pdf">Argumentation</a><br>
         <!-- Plato. <a href="https://www.gutenberg.org/cache/epub/1672/pg1672-images.html">Gorgias: Socrates vs. Callicles</a><br> -->
@@ -80,7 +80,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 4: Relativism --> 
     <tr>
       <td>Relativism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/relativism.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/relativism.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] James and Stuart Rachels. "The Challenge of Cultural Relativism" <br>
         Bernard Mandeville. 1714. <a href="https://www.earlymoderntexts.com/assets/pdfs/mandeville1732.pdf">Fable of the Bees</a><br>
@@ -91,7 +91,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 5: Utilitarianism -->
     <tr>
       <td>Utilitarianism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/utilitarianism.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/utilitarianism.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Vsauce. <a href="https://www.youtube.com/watch?v=1sl5KJ69qiA&pp=ygUPdHJvbGxleSBwcm9ibGVt">The Trolley Problem in Real Life</a><br>
         [*] John Stuart Mill. 1861. <a href="https://www.earlymoderntexts.com/assets/pdfs/mill1863.pdf">Utilitarianism</a><br>
@@ -102,7 +102,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 6: Deontology -->
     <tr>
       <td>Deontology</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/deontology.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/deontology.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Immanuel Kant. <a href="https://www.earlymoderntexts.com/assets/pdfs/kant1785.pdf">Groundwork of the Metaphysics of Morals</a><br>
         [*] David Velleman. <em>Reading Kant's Groundwork</em>
@@ -111,7 +111,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 7: Virtue Ethics -->
     <tr>
       <td>Virtue Ethics</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/virtue-ethics.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/virtue-ethics.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Aristotle (384-22 BCE). <em>Nicomachean Ethics</em>: <a href="https://www.gutenberg.org/cache/epub/8438/pg8438-images.html">Books I and II</a><br>
         [*] Elizabeth M. Anscombe. 1958. <a href="https://www.jstor.org/stable/3749051">Modern Moral Philosophy</a>
@@ -120,7 +120,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 8: What we Owe Others -->
     <tr>
       <td>Famine Relief</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/what-we-owe-others.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/what-we-owe-others.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Peter Singer. 1972. <a href="http://www.jstor.org/stable/2265052">Famine, Affluence and Morality</a><br>
         [*] Onora O'Neill. 1980. "Kantian Approaches to Some Famine Ethics"
@@ -129,7 +129,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 9: Animal Welfare -->
     <tr>
       <td>Animal Welfare</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         <!-- Kant, Immanuel. <a href="{{ site.baseurl }}/assets/courses/intro/readings/.pdf">Excerpt</a><br> -->
         <!-- [*] Peter Singer. 1977. <em>Animal Liberation</em><br> -->
@@ -144,7 +144,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 10: Libertarianism -->
     <tr>
       <td>Libertarianism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/libertarianism.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/libertarianism.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Robert Nozick. 1974. <em>Anarchy, State Utopia</em> (excerpts)<br>
         [*] Milton Friedman. <a href="https://www.youtube.com/watch?v=JSumJxQ5oy4">TAKE IT TO THE LIMITS: Milton Friedman on Libertarianism</a>. Hoover Institution<br>
@@ -157,7 +157,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 11: Socialism -->
     <tr>
       <td>Socialism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/socialism.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/socialism.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Karl Marx. 1848. <a href="{{ site.baseurl }}/assets/courses/intro/readings/marx-manifesto.pdf">Communist Manifesto</a>
         <!-- Kai Neilsen. Socialism ??????????????????<br> -->
@@ -167,12 +167,10 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 12: Liberalism -->
     <tr>
       <td>Liberalism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] John Rawls. 1971. <em>A Theory of Justice</em> (excerpts)<br>
-
 <!-- Neoliberalism??? Friedman -->
-
         SEP. <a href="https://plato.stanford.edu/entries/liberalism">Liberalism</a>
       </td>
     </tr>
@@ -181,7 +179,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 14: Free will Libertaianism -->
     <tr>
       <td>Freewill Libertarianism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] C. A. Cambpell. 1938. In Defence of Freewill
       </td>
@@ -189,7 +187,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 15: Hard-Determinism and Fatalism -->
     <tr>
       <td>Hard-Determinism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] D'Holbach. 1770. <a href="https://iweb.langara.ca/rjohns/files/2019/08/dholbach.pdf">XI. Of the System of Man's Free Agency</a> from <em>The System of Nature</em><br>
         Blatchford. 1908. <a href="https://www.gutenberg.org/files/43466/43466-h/43466-h.htm">Not Guilty</a>
@@ -198,7 +196,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 16: Compatibilism -->
     <tr>
       <td>Compatibilism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Ayer, A.J. 1972. <a href="https://doi.org/10.1007/978-1-349-00132-3_12">Freedom and Necessity</a> in <em>Philosophical Essays</em><br>
         Harry Frankfurt. 1969. "Alternate Possibilities and Moral Responsibility," <em>Journal of Philosophy</em>, 46: 829-839.
@@ -209,7 +207,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 18: Dualism -->
     <tr>
       <td>Dualism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Rene Descartes. 1641. <a href="https://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf">Meditations</a><br>
         [*] Richard Swineburne. 2009. <a href="http://users.ox.ac.uk/%7Eorie0087/pdf_files/Papers%20from%20Philosophical%20Journals/Swinburne_2009-dualism.pdf">Substance Dualism, <em>Faith and Philosophy</em></a><br>
@@ -219,7 +217,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 19: Behaviorism -->
     <tr>
       <td>Behaviorism and Innatism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] B. F. Skinner. 1957. <em>Verbal Behavior</em> (excerpts)<br>
         [*] Noam Chomsky. 1967. Review of B. F. Skinner's <em>Verbal Behavior</em> in <em>Language</em> 35:1
@@ -228,7 +226,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 20: Identity Theory -->
     <tr>
       <td>Identity Theory</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] J. J. C. Smart. 1959. <a href="https://www.jstor.org/stable/2182164">Sensations and Brain Processes</a>, Philosophical Review, 68: 141–156.
       </td>
@@ -236,7 +234,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 21: Functionalism -->
     <tr>
       <td>Functionalism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Ned Block. 1980. <a href="https://www.nedblock.us/papers/functionalism.encyc.pdf">What is Functionalism?</a><br>
         SEP. <a href="https://plato.stanford.edu/entries/functionalism">Functionalism</a>
@@ -245,7 +243,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <!-- Lecture 22: Can Computer Think? -->
     <tr>
       <td>Can Computers Think?</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Alan Turing. 1950. <a href="https://www.jstor.org/stable/2251299">Computing Machinery and Intelligence</a>, <em>Mind</em>, 59(236): 433-60.<br>
         [*] John Searle. 1980. <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/minds-brains-and-programs/DC644B47A4299C637C89772FACC2706A">Minds, Brains and Programs</a>, <em>Behavioral and Brain Sciences</em>, 3: 417-57.<br>
@@ -259,7 +257,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <tr><th colspan="3">Philosophy of Religion: Does God Exist?</th></tr>
     <tr>
       <td>Ontological Argument for God</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
 
 <!-- https://sourcebooks.fordham.edu/basis/anselm-proslogium.asp -->
@@ -271,12 +269,12 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     </tr>
     <tr>
       <td>Cosmological Argument for God</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>[*] Saint Thomas Aquinas. 1273. <a href="{{ site.baseurl }}/assets/courses/intro/readings/aquinas-cosmological.pdf">Summa Theologica</a></td>
     </tr>
     <tr>
       <td>Design Argument for God</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] William Paley. 1802. <a href="https://www.earlymoderntexts.com/assets/pdfs/paley1802.pdf">Natural Theology</a><br>
         [*] David Hume. 1779. <a href="https://www.earlymoderntexts.com/assets/pdfs/hume1779.pdf">Dialogues Concerning Natural Religion</a><br>
@@ -288,7 +286,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     </tr>
     <tr>
       <td>Pragmatic Argument for God</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Blaise Pascal. 1660. <a href="https://www.earlymoderntexts.com/assets/pdfs/pascal1660.pdf">Pensees</a><br>
         SEP. <a href="https://plato.stanford.edu/entries/pascal-wager">Pascal's Wager</a>
@@ -296,14 +294,14 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     </tr>
     <tr>
       <td>The Logical Problem of Evil</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] J. L. Mackie. 1955. <a href="https://www.jstor.org/stable/2251467">Evil and Omnipotence</a>
       </td>
     </tr>
     <tr>
       <td>The Inductive Problem of Evil</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] David Hume. 1779. <a href="https://www.earlymoderntexts.com/assets/pdfs/hume1779.pdf">Dialogues Concerning Natural Religion</a><br>
         SEP. <a href="https://plato.stanford.edu/entries/evil/">The Problem of Evil</a>
@@ -314,7 +312,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <tr><th colspan="3">Epistemology</th></tr>
     <tr>
       <td>Skepticism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] William Clifford. 1846. <a href="{{ site.baseurl}}/assets/courses/intro/readings/clifford-ethics-of-belief.pdf">Ethics of Belief</a><br>
         [*] William James. 1896. <a href="https://www.gutenberg.org/cache/epub/26659/pg26659-images.html">The Will to Believe</a><br>
@@ -323,7 +321,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     </tr>
     <tr>
       <td>External World Skepticism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Rene Descartes. 1641. <a href="https://www.earlymoderntexts.com/assets/pdfs/descartes1641.pdf">Meditations I, II</a><br>
         Nick Bolstrom. 2003. <a href="https://www.simulation-argument.com/simulation.pdf">Are you living in a computer simulation?</a>. More <a href="https://www.simulation-argument.com/">here</a>
@@ -331,7 +329,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     </tr>
     <tr>
       <td>The Problem of Induction</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] David Hume. 1740. <a href="https://www.earlymoderntexts.com/assets/pdfs/hume1740.pdf">A Treatise of Human Nature: Abstract</a><br>
         David Hume. 1748. <a href="https://www.earlymoderntexts.com/assets/pdfs/hume1748.pdf">Enquiry Concerning Human Understanding</a>
@@ -339,7 +337,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     </tr>
     <tr>
       <td>Innate Knowledge or "Tabular Rasa"</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Plato. ~400BCE. <a href="https://www.gutenberg.org/files/5827/5827-h/5827-h.htm">Meno</a><br>
         [*] John Locke. 1689. <em>Essay on Human Understanding</em> - <a href="">Book I</a><br>
@@ -350,7 +348,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
 
    <tr>
       <td>A priori Knowledge</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Bertrand Russell. 1912. Chapter VII and VIII. <em>Problems of Philosophy</em><br>
         [*] A. J. Ayer. 1936. A priori. <em>Language, Truth and Logic</em>
@@ -361,7 +359,7 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     <tr><th colspan="3">Metaphysics</th></tr>
     <tr>
       <td>Realism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Bertrand Russell. 1912. <a href="">Appearance and Reality</a> from <em>Problems of Philosophy</em><br>
         [*] John Locke. 1689. <em>Essay on Human Understanding</em>: 
@@ -371,14 +369,14 @@ This is an introduction to philosophy. It covers the central problems in ethics,
     </tr>
     <tr>
       <td>Idealism</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] George Berkeley. 1710. <a href="https://www.earlymoderntexts.com/assets/pdfs/berkeley1710.pdf">The Principles of Human Knowledge</a> (excerpts)<br>
       </td>
     </tr>
     <tr>
       <td>Truth</td>
-      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
+      <td><a href="{{ site.baseurl }}/assets/courses/intro/slides/.ppt" style="pointer-events:none"><img src="{{ site.baseurl }}/assets/icons/prez.jpg" /></a></td>
       <td>
         [*] Bertand Russell. 1912. Truth in <em>Problems of Philosophy</em><br>
         William James. 1909. <a href="https://www.gutenberg.org/cache/epub/5117/pg5117-images.html">VIII. The Pragmatist Account of Truth</a> in <em>The Meaning of Truth</em>
